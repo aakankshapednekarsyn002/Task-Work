@@ -1,0 +1,1021 @@
+employee_id,full_name,age,status,join_date,salary,email,phone,performance_score,remote_work,department,region,email_validation,username,domain
+1000,Bob Davis,25.0,Active,2021-04-02,59767.65,bob.davis@example.com,1651623197,Average,True,DevOps,California,True,bob.davis,@example.com
+1001,Bob Brown,NA,Active,2020-07-10,65304.66,bob.brown@example.com,1898471390,Excellent,True,Finance,Texas,True,bob.brown,@example.com
+1002,Alice Jones,NA,Pending,2023-12-07,88145.9,alice.jones@example.com,5596363211,Good,True,Admin,Nevada,True,alice.jones,@example.com
+1003,Eva Davis,25.0,Inactive,2021-11-27,69450.99,eva.davis@example.com,3476490784,Good,True,Admin,Nevada,True,eva.davis,@example.com
+1004,Frank Williams,25.0,Active,2022-01-05,109324.61,frank.williams@example.com,1586734256,Poor,False,Cloud Tech,Florida,True,frank.williams,@example.com
+1005,Alice Garcia,40.0,Inactive,2020-06-10,88642.84,alice.garcia@example.com,5409003485,Good,False,Sales,Texas,True,alice.garcia,@example.com
+1006,Frank Jones,NA,Active,2020-04-03,96288.43,frank.jones@example.com,4518376063,Good,False,Admin,Nevada,True,frank.jones,@example.com
+1007,Bob Jones,30.0,Inactive,2022-07-17,94497.91,bob.jones@example.com,4134327559,Average,True,Cloud Tech,Florida,True,bob.jones,@example.com
+1008,Frank Davis,35.0,Inactive,2023-12-08,115565.82,frank.davis@example.com,4177656123,Excellent,True,Admin,Nevada,True,frank.davis,@example.com
+1009,Charlie Johnson,NA,Active,2022-08-04,76561.88,charlie.johnson@example.com,8156985699,Excellent,True,DevOps,New York,True,charlie.johnson,@example.com
+1010,David Williams,35.0,Active,2024-07-06,72081.71,david.williams@example.com,2720634590,Average,False,Cloud Tech,New York,True,david.williams,@example.com
+1011,David Davis,NA,Active,2023-09-04,84946.19,david.davis@example.com,1238296576,Poor,True,DevOps,California,True,david.davis,@example.com
+1012,Heidi Williams,30.0,Active,2024-03-05,89295.77,heidi.williams@example.com,2429543164,Excellent,False,HR,New York,True,heidi.williams,@example.com
+1013,Grace Williams,NA,Active,2020-10-10,85666.84,grace.williams@example.com,2669300892,Good,False,Finance,California,True,grace.williams,@example.com
+1014,Alice Garcia,25.0,Active,2024-06-10,97633.68,alice.garcia@example.com,1734206968,Excellent,True,Admin,Nevada,True,alice.garcia,@example.com
+1015,Grace Jones,40.0,Pending,2021-05-29,117975.49,grace.jones@example.com,4215291085,Good,True,Sales,Florida,True,grace.jones,@example.com
+1016,Alice Brown,25.0,Inactive,2024-04-23,94867.33,alice.brown@example.com,7713334475,Poor,False,DevOps,Illinois,True,alice.brown,@example.com
+1017,Grace Garcia,30.0,Pending,2024-11-28,100377.65,grace.garcia@example.com,2639343625,Average,True,Finance,Texas,True,grace.garcia,@example.com
+1018,Charlie Garcia,NA,Inactive,2024-09-19,94726.46,charlie.garcia@example.com,2044397358,Excellent,False,Cloud Tech,Nevada,True,charlie.garcia,@example.com
+1019,Charlie Williams,35.0,Pending,2020-01-02,91926.12,charlie.williams@example.com,7107256365,Average,True,Admin,Illinois,True,charlie.williams,@example.com
+1020,Bob Miller,35.0,Active,2021-05-08,111460.67,bob.miller@example.com,9411800536,Excellent,True,HR,New York,True,bob.miller,@example.com
+1021,Bob Jones,40.0,Active,2020-09-19,96182.56,bob.jones@example.com,5990048963,Good,False,Cloud Tech,Illinois,True,bob.jones,@example.com
+1022,Charlie Johnson,35.0,Inactive,2021-03-09,115023.94,charlie.johnson@example.com,6528092427,Average,True,Sales,Illinois,True,charlie.johnson,@example.com
+1023,David Garcia,35.0,Pending,2022-02-03,80667.01,david.garcia@example.com,7572158623,Excellent,False,Finance,Nevada,True,david.garcia,@example.com
+1024,Bob Brown,30.0,Inactive,2020-02-13,91181.61,bob.brown@example.com,1502745643,Good,True,Admin,Texas,True,bob.brown,@example.com
+1025,David Miller,25.0,Pending,2020-04-30,66025.92,david.miller@example.com,9485625727,Average,False,Cloud Tech,Nevada,True,david.miller,@example.com
+1026,Frank Miller,25.0,Inactive,2023-10-02,83979.01,frank.miller@example.com,7032032073,Average,False,Sales,New York,True,frank.miller,@example.com
+1027,Heidi Johnson,30.0,Active,2020-07-12,56785.16,heidi.johnson@example.com,2761707586,Excellent,True,Finance,Florida,True,heidi.johnson,@example.com
+1028,Grace Garcia,40.0,Active,2023-10-11,95741.88,grace.garcia@example.com,7712151341,Excellent,False,Finance,Nevada,True,grace.garcia,@example.com
+1029,Alice Brown,40.0,Active,2021-05-24,63411.31,alice.brown@example.com,2849939088,Excellent,True,DevOps,California,True,alice.brown,@example.com
+1030,Charlie Jones,40.0,Inactive,2021-05-26,111214.02,charlie.jones@example.com,2613715040,Good,True,Admin,California,True,charlie.jones,@example.com
+1031,Bob Smith,25.0,Active,2020-07-10,114845.69,bob.smith@example.com,6591520176,Excellent,True,DevOps,Illinois,True,bob.smith,@example.com
+1032,Charlie Brown,40.0,Active,2024-11-05,78072.82,charlie.brown@example.com,7490509758,Average,False,Finance,Florida,True,charlie.brown,@example.com
+1033,Grace Johnson,25.0,Inactive,2021-08-07,79610.52,grace.johnson@example.com,2304501895,Average,False,Finance,California,True,grace.johnson,@example.com
+1034,Heidi Miller,30.0,Active,2020-04-29,90542.62,heidi.miller@example.com,1642361031,Excellent,True,Admin,California,True,heidi.miller,@example.com
+1035,Frank Jones,25.0,Inactive,2022-10-26,114357.1,frank.jones@example.com,6642147648,Excellent,True,Cloud Tech,Illinois,True,frank.jones,@example.com
+1036,Alice Brown,NA,Active,2023-05-03,54757.26,alice.brown@example.com,2515837766,Poor,False,Cloud Tech,New York,True,alice.brown,@example.com
+1037,Grace Smith,25.0,Pending,2023-05-02,52781.92,grace.smith@example.com,4996165925,Average,True,Sales,New York,True,grace.smith,@example.com
+1038,Frank Smith,35.0,Pending,2021-10-05,66708.02,frank.smith@example.com,6108573277,Good,True,Admin,Nevada,True,frank.smith,@example.com
+1039,Eva Williams,40.0,Active,2022-07-27,93481.15,eva.williams@example.com,8147617421,Poor,False,HR,Texas,True,eva.williams,@example.com
+1040,Bob Williams,25.0,Pending,2021-06-27,59271.96,bob.williams@example.com,4386490809,Excellent,True,Sales,New York,True,bob.williams,@example.com
+1041,Bob Davis,30.0,Active,2022-06-16,108362.15,bob.davis@example.com,8186617944,Excellent,False,HR,California,True,bob.davis,@example.com
+1042,Alice Johnson,NA,Active,2024-12-03,59400.38,alice.johnson@example.com,4918017225,Average,True,HR,Nevada,True,alice.johnson,@example.com
+1043,Bob Garcia,NA,Inactive,2023-05-23,64744.08,bob.garcia@example.com,164597793,Excellent,False,Admin,California,True,bob.garcia,@example.com
+1044,Eva Brown,NA,Active,2020-07-08,94399.91,eva.brown@example.com,5232194167,Good,True,Finance,California,True,eva.brown,@example.com
+1045,Alice Brown,25.0,Pending,2021-06-20,61310.74,alice.brown@example.com,61027768,Average,True,HR,New York,True,alice.brown,@example.com
+1046,Grace Garcia,NA,Active,2024-12-13,98371.37,grace.garcia@example.com,7499564121,Excellent,False,Cloud Tech,Texas,True,grace.garcia,@example.com
+1047,Alice Davis,35.0,Active,2022-05-30,58921.19,alice.davis@example.com,310303722,Average,True,Sales,Illinois,True,alice.davis,@example.com
+1048,Alice Miller,35.0,Active,2023-09-27,57195.55,alice.miller@example.com,6831472759,Excellent,False,Admin,Nevada,True,alice.miller,@example.com
+1049,Grace Miller,NA,Active,2024-11-05,61375.12,grace.miller@example.com,1227770792,Excellent,True,DevOps,New York,True,grace.miller,@example.com
+1050,Charlie Davis,40.0,Pending,2021-11-11,104767.05,charlie.davis@example.com,3496050165,Excellent,False,Cloud Tech,New York,True,charlie.davis,@example.com
+1051,David Miller,35.0,Active,2022-02-22,111051.67,david.miller@example.com,7998407677,Good,False,Admin,Nevada,True,david.miller,@example.com
+1052,David Williams,30.0,Inactive,2024-08-07,105674.18,david.williams@example.com,9973080694,Good,False,Finance,California,True,david.williams,@example.com
+1053,Alice Brown,30.0,Inactive,2024-11-05,54859.45,alice.brown@example.com,8146717956,Average,False,Finance,California,True,alice.brown,@example.com
+1054,Frank Davis,NA,Pending,2021-11-09,115746.6,frank.davis@example.com,6024375737,Excellent,True,Finance,Nevada,True,frank.davis,@example.com
+1055,Eva Brown,30.0,Active,2020-08-10,91759.99,eva.brown@example.com,3959724664,Excellent,True,Sales,California,True,eva.brown,@example.com
+1056,Frank Garcia,40.0,Active,2022-02-27,112965.33,frank.garcia@example.com,7293417222,Good,False,Sales,Illinois,True,frank.garcia,@example.com
+1057,Alice Smith,40.0,Pending,2023-11-07,100360.1,alice.smith@example.com,2971674337,Excellent,False,Cloud Tech,Illinois,True,alice.smith,@example.com
+1058,David Williams,35.0,Pending,2021-11-07,93620.88,david.williams@example.com,54522800,Good,False,Finance,Texas,True,david.williams,@example.com
+1059,Bob Jones,35.0,Pending,2022-04-16,72832.8,bob.jones@example.com,5619318373,Excellent,True,Sales,California,True,bob.jones,@example.com
+1060,Charlie Williams,30.0,Inactive,2023-10-19,102369.42,charlie.williams@example.com,5508428909,Average,True,Finance,Nevada,True,charlie.williams,@example.com
+1061,Eva Davis,40.0,Inactive,2021-08-10,64712.79,eva.davis@example.com,7711991807,Excellent,True,Sales,Texas,True,eva.davis,@example.com
+1062,Frank Jones,40.0,Pending,2021-03-13,85782.18,frank.jones@example.com,1213524786,Excellent,True,Finance,Florida,True,frank.jones,@example.com
+1063,Charlie Smith,25.0,Pending,2023-07-20,93348.26,charlie.smith@example.com,1255213759,Poor,False,HR,Illinois,True,charlie.smith,@example.com
+1064,David Davis,35.0,Active,2020-02-20,53234.96,david.davis@example.com,3754821455,Good,False,Admin,New York,True,david.davis,@example.com
+1065,Bob Johnson,40.0,Pending,2021-02-02,100284.21,bob.johnson@example.com,5328632665,Excellent,False,Finance,Nevada,True,bob.johnson,@example.com
+1066,Grace Brown,30.0,Pending,2020-01-12,112486.19,grace.brown@example.com,7850720810,Excellent,True,Admin,Nevada,True,grace.brown,@example.com
+1067,Bob Smith,40.0,Pending,2022-11-26,82518.49,bob.smith@example.com,5562606028,Poor,True,Admin,New York,True,bob.smith,@example.com
+1068,Bob Brown,40.0,Pending,2022-12-23,119152.47,bob.brown@example.com,846684549,Poor,True,Admin,Florida,True,bob.brown,@example.com
+1069,Heidi Miller,NA,Inactive,2024-08-28,113479.83,heidi.miller@example.com,4892673898,Good,False,DevOps,Illinois,True,heidi.miller,@example.com
+1070,Charlie Johnson,40.0,Active,2024-09-16,94636.3,charlie.johnson@example.com,7563410855,Poor,False,Finance,California,True,charlie.johnson,@example.com
+1071,Heidi Johnson,30.0,Active,2024-01-01,70000.97,heidi.johnson@example.com,2884318847,Average,True,HR,Florida,True,heidi.johnson,@example.com
+1072,Frank Smith,NA,Active,2021-04-18,76812.47,frank.smith@example.com,5200894345,Poor,False,Cloud Tech,New York,True,frank.smith,@example.com
+1073,David Johnson,25.0,Inactive,2023-01-16,82614.7,david.johnson@example.com,8105485100,Average,True,Finance,Florida,True,david.johnson,@example.com
+1074,Grace Jones,40.0,Active,2024-10-20,111645.97,grace.jones@example.com,7490753997,Good,True,Sales,Nevada,True,grace.jones,@example.com
+1075,Heidi Johnson,25.0,Inactive,2024-10-13,112414.91,heidi.johnson@example.com,9354492682,Good,False,HR,California,True,heidi.johnson,@example.com
+1076,David Brown,40.0,Inactive,2022-09-21,52031.74,david.brown@example.com,1589357125,Good,True,Admin,California,True,david.brown,@example.com
+1077,Grace Brown,30.0,Pending,2022-12-29,51887.65,grace.brown@example.com,6110627370,Good,False,Finance,New York,True,grace.brown,@example.com
+1078,Alice Davis,25.0,Active,2024-11-10,82318.89,alice.davis@example.com,5869886496,Good,True,DevOps,Florida,True,alice.davis,@example.com
+1079,Grace Brown,35.0,Inactive,2021-11-22,103286.08,grace.brown@example.com,6776228276,Average,False,Admin,Florida,True,grace.brown,@example.com
+1080,Grace Davis,35.0,Active,2024-03-14,87759.33,grace.davis@example.com,2881377027,Average,False,Cloud Tech,Florida,True,grace.davis,@example.com
+1081,Frank Brown,30.0,Pending,2020-03-23,102796.32,frank.brown@example.com,5196115939,Good,False,DevOps,Texas,True,frank.brown,@example.com
+1082,David Jones,25.0,Active,2020-09-15,83149.27,david.jones@example.com,8215454469,Poor,True,Sales,New York,True,david.jones,@example.com
+1083,David Garcia,40.0,Inactive,2020-12-09,92412.49,david.garcia@example.com,2296044326,Excellent,True,DevOps,California,True,david.garcia,@example.com
+1084,Bob Davis,30.0,Pending,2020-02-22,115022.1,bob.davis@example.com,185106793,Good,False,HR,Texas,True,bob.davis,@example.com
+1085,Grace Williams,40.0,Active,2023-04-27,98343.01,grace.williams@example.com,9756792286,Poor,False,DevOps,New York,True,grace.williams,@example.com
+1086,Bob Miller,35.0,Active,2024-06-18,118869.1,bob.miller@example.com,7725199662,Excellent,True,DevOps,Illinois,True,bob.miller,@example.com
+1087,Frank Smith,NA,Inactive,2020-05-21,85417.26,frank.smith@example.com,6580741208,Good,True,Finance,Nevada,True,frank.smith,@example.com
+1088,Grace Brown,40.0,Inactive,2023-07-25,112410.25,grace.brown@example.com,4818139889,Good,True,Cloud Tech,Florida,True,grace.brown,@example.com
+1089,Charlie Johnson,40.0,Pending,2023-08-25,68905.77,charlie.johnson@example.com,9837801819,Average,False,Admin,Nevada,True,charlie.johnson,@example.com
+1090,Heidi Garcia,40.0,Pending,2021-07-03,72561.32,heidi.garcia@example.com,4339718955,Excellent,True,Finance,Nevada,True,heidi.garcia,@example.com
+1091,Bob Brown,35.0,Inactive,2023-03-13,92723.22,bob.brown@example.com,9070562607,Excellent,True,Finance,New York,True,bob.brown,@example.com
+1092,Alice Johnson,40.0,Inactive,2021-03-10,74837.75,alice.johnson@example.com,5641118241,Poor,False,HR,New York,True,alice.johnson,@example.com
+1093,Eva Miller,NA,Pending,2020-01-21,86163.91,eva.miller@example.com,2412462094,Average,True,DevOps,California,True,eva.miller,@example.com
+1094,David Miller,40.0,Active,2023-11-15,83326.52,david.miller@example.com,2004615264,Average,True,Finance,Illinois,True,david.miller,@example.com
+1095,Heidi Miller,25.0,Active,2022-04-08,98425.1,heidi.miller@example.com,4610339936,Average,True,Cloud Tech,California,True,heidi.miller,@example.com
+1096,Frank Johnson,40.0,Inactive,2022-05-21,119764.2,frank.johnson@example.com,8861405785,Average,False,Sales,Illinois,True,frank.johnson,@example.com
+1097,Frank Brown,40.0,Inactive,2021-04-17,58445.91,frank.brown@example.com,1706304890,Excellent,False,HR,California,True,frank.brown,@example.com
+1098,Bob Miller,NA,Active,2021-03-19,101702.33,bob.miller@example.com,3824967182,Excellent,False,DevOps,New York,True,bob.miller,@example.com
+1099,Eva Jones,25.0,Active,2022-01-09,85155.06,eva.jones@example.com,2582386869,Good,False,Admin,California,True,eva.jones,@example.com
+1100,Charlie Davis,35.0,Pending,2021-08-21,98819.22,charlie.davis@example.com,794200748,Good,False,Cloud Tech,Texas,True,charlie.davis,@example.com
+1101,Heidi Johnson,25.0,Inactive,2022-08-19,83509.99,heidi.johnson@example.com,4653984027,Average,False,Cloud Tech,Illinois,True,heidi.johnson,@example.com
+1102,Alice Johnson,35.0,Active,2022-03-31,84422.26,alice.johnson@example.com,9141612845,Average,False,Finance,Texas,True,alice.johnson,@example.com
+1103,Alice Brown,30.0,Inactive,2020-06-23,119574.27,alice.brown@example.com,3985547434,Average,True,Admin,Illinois,True,alice.brown,@example.com
+1104,Grace Johnson,NA,Active,2024-05-07,86580.08,grace.johnson@example.com,5379502096,Good,True,Sales,Illinois,True,grace.johnson,@example.com
+1105,Heidi Johnson,35.0,Inactive,2023-03-10,93471.91,heidi.johnson@example.com,26876810,Poor,False,Sales,Florida,True,heidi.johnson,@example.com
+1106,Bob Miller,30.0,Inactive,2023-09-14,55683.12,bob.miller@example.com,8071569561,Poor,True,DevOps,New York,True,bob.miller,@example.com
+1107,Bob Brown,30.0,Inactive,2023-11-12,91566.78,bob.brown@example.com,175370303,Good,True,Cloud Tech,Florida,True,bob.brown,@example.com
+1108,David Miller,35.0,Pending,2024-10-26,81782.19,david.miller@example.com,5319433749,Good,False,DevOps,California,True,david.miller,@example.com
+1109,Eva Davis,NA,Inactive,2020-08-23,88119.37,eva.davis@example.com,4793036148,Good,True,DevOps,New York,True,eva.davis,@example.com
+1110,Eva Garcia,30.0,Active,2024-06-11,71532.83,eva.garcia@example.com,8728399920,Good,True,Cloud Tech,Texas,True,eva.garcia,@example.com
+1111,Eva Davis,40.0,Pending,2021-09-14,98981.36,eva.davis@example.com,9212493842,Good,True,Cloud Tech,Florida,True,eva.davis,@example.com
+1112,Heidi Garcia,40.0,Active,2024-12-26,80242.01,heidi.garcia@example.com,894870604,Good,True,Cloud Tech,Illinois,True,heidi.garcia,@example.com
+1113,Eva Miller,25.0,Pending,2024-09-08,110236.18,eva.miller@example.com,6641877579,Average,True,Cloud Tech,New York,True,eva.miller,@example.com
+1114,Alice Davis,35.0,Active,2022-08-21,86327.47,alice.davis@example.com,3046875062,Average,False,Sales,Texas,True,alice.davis,@example.com
+1115,Eva Brown,30.0,Pending,2024-07-25,84420.81,eva.brown@example.com,5190361331,Average,False,Sales,Florida,True,eva.brown,@example.com
+1116,Frank Smith,40.0,Pending,2020-08-02,110041.32,frank.smith@example.com,5411076094,Average,False,HR,California,True,frank.smith,@example.com
+1117,Heidi Miller,35.0,Pending,2020-03-16,81837.81,heidi.miller@example.com,4317350582,Good,True,DevOps,Florida,True,heidi.miller,@example.com
+1118,Frank Garcia,25.0,Active,2023-09-08,110855.72,frank.garcia@example.com,1997179109,Poor,False,Finance,Illinois,True,frank.garcia,@example.com
+1119,Alice Jones,30.0,Pending,2024-03-29,84894.52,alice.jones@example.com,651207048,Excellent,True,Sales,California,True,alice.jones,@example.com
+1120,Alice Garcia,30.0,Active,2021-08-12,80668.13,alice.garcia@example.com,6110804660,Good,True,HR,Illinois,True,alice.garcia,@example.com
+1121,Bob Jones,25.0,Active,2023-12-24,61086.47,bob.jones@example.com,9639907675,Excellent,True,DevOps,Illinois,True,bob.jones,@example.com
+1122,Grace Johnson,25.0,Inactive,2020-08-28,95339.68,grace.johnson@example.com,9915078592,Poor,True,Admin,Texas,True,grace.johnson,@example.com
+1123,Eva Davis,NA,Inactive,2024-09-05,83774.97,eva.davis@example.com,1109193927,Average,False,DevOps,California,True,eva.davis,@example.com
+1124,Heidi Jones,NA,Active,2023-05-12,85576.86,heidi.jones@example.com,4567972319,Poor,False,Admin,Florida,True,heidi.jones,@example.com
+1125,Bob Garcia,35.0,Pending,2021-07-01,107438.46,bob.garcia@example.com,249685497,Good,True,Finance,California,True,bob.garcia,@example.com
+1126,Eva Johnson,NA,Inactive,2024-11-07,60401.68,eva.johnson@example.com,2274954507,Average,False,Sales,Nevada,True,eva.johnson,@example.com
+1127,Frank Smith,35.0,Inactive,2022-07-21,115299.66,frank.smith@example.com,9203880652,Good,True,Sales,Illinois,True,frank.smith,@example.com
+1128,David Brown,NA,Inactive,2020-03-30,72272.34,david.brown@example.com,3315377958,Average,False,Finance,New York,True,david.brown,@example.com
+1129,Grace Brown,40.0,Active,2022-10-11,117537.71,grace.brown@example.com,9594652169,Excellent,False,DevOps,Nevada,True,grace.brown,@example.com
+1130,Frank Brown,25.0,Pending,2022-07-24,51074.33,frank.brown@example.com,7303379336,Excellent,True,Finance,Texas,True,frank.brown,@example.com
+1131,Charlie Jones,25.0,Inactive,2023-06-30,98489.32,charlie.jones@example.com,5636205014,Excellent,False,Finance,California,True,charlie.jones,@example.com
+1132,Frank Smith,NA,Pending,2024-01-11,112120.71,frank.smith@example.com,812473949,Poor,True,Finance,California,True,frank.smith,@example.com
+1133,Alice Jones,NA,Pending,2023-11-02,114465.04,alice.jones@example.com,334234257,Good,False,Cloud Tech,New York,True,alice.jones,@example.com
+1134,Bob Davis,40.0,Pending,2024-11-22,57035.51,bob.davis@example.com,3230241025,Poor,True,Cloud Tech,Nevada,True,bob.davis,@example.com
+1135,Eva Jones,25.0,Active,2021-08-23,75092.43,eva.jones@example.com,1534735527,Excellent,True,Cloud Tech,California,True,eva.jones,@example.com
+1136,David Smith,NA,Pending,2024-06-11,62603.98,david.smith@example.com,9611223385,Good,False,Finance,Illinois,True,david.smith,@example.com
+1137,Grace Smith,NA,Inactive,2023-04-09,60018.24,grace.smith@example.com,5596309937,Excellent,False,DevOps,New York,True,grace.smith,@example.com
+1138,Eva Davis,40.0,Active,2024-07-05,82567.73,eva.davis@example.com,4253042896,Poor,True,HR,Nevada,True,eva.davis,@example.com
+1139,Charlie Smith,25.0,Pending,2021-09-04,94725.71,charlie.smith@example.com,3179128684,Poor,False,Finance,California,True,charlie.smith,@example.com
+1140,Eva Garcia,40.0,Inactive,2024-10-13,83824.56,eva.garcia@example.com,7872558776,Poor,False,HR,New York,True,eva.garcia,@example.com
+1141,Frank Smith,NA,Inactive,2020-02-14,118456.11,frank.smith@example.com,4969033372,Excellent,True,HR,Nevada,True,frank.smith,@example.com
+1142,Eva Brown,25.0,Pending,2020-04-10,113743.19,eva.brown@example.com,6346692547,Good,True,Sales,Nevada,True,eva.brown,@example.com
+1143,Eva Garcia,30.0,Active,2023-07-27,63309.24,eva.garcia@example.com,1214785389,Good,False,Sales,California,True,eva.garcia,@example.com
+1144,Charlie Garcia,25.0,Active,2021-09-24,105202.73,charlie.garcia@example.com,7895677664,Excellent,True,DevOps,Nevada,True,charlie.garcia,@example.com
+1145,Frank Davis,30.0,Inactive,2024-03-10,79085.22,frank.davis@example.com,7546027340,Good,True,Cloud Tech,California,True,frank.davis,@example.com
+1146,Frank Williams,NA,Active,2021-06-10,113983.43,frank.williams@example.com,5148881430,Excellent,True,Sales,California,True,frank.williams,@example.com
+1147,Eva Williams,35.0,Active,2020-10-15,102790.6,eva.williams@example.com,1150835353,Good,False,Cloud Tech,Florida,True,eva.williams,@example.com
+1148,Grace Smith,NA,Inactive,2020-01-29,68512.1,grace.smith@example.com,4439284043,Average,False,HR,Texas,True,grace.smith,@example.com
+1149,Frank Garcia,35.0,Pending,2022-01-30,57584.23,frank.garcia@example.com,5669078262,Average,True,Sales,Florida,True,frank.garcia,@example.com
+1150,Alice Williams,NA,Pending,2021-03-29,95335.67,alice.williams@example.com,3373898774,Poor,False,Sales,California,True,alice.williams,@example.com
+1151,Heidi Williams,35.0,Active,2020-10-13,53174.28,heidi.williams@example.com,1536637779,Average,True,DevOps,Florida,True,heidi.williams,@example.com
+1152,Heidi Smith,25.0,Pending,2020-10-04,77205.21,heidi.smith@example.com,5292407552,Average,False,Cloud Tech,New York,True,heidi.smith,@example.com
+1153,Grace Williams,NA,Active,2024-12-18,79041.92,grace.williams@example.com,6668459089,Average,True,DevOps,Nevada,True,grace.williams,@example.com
+1154,Heidi Jones,NA,Active,2023-11-14,75937.1,heidi.jones@example.com,2259999662,Excellent,True,Finance,California,True,heidi.jones,@example.com
+1155,David Johnson,35.0,Inactive,2023-01-20,113118.73,david.johnson@example.com,6186371596,Average,False,Cloud Tech,Nevada,True,david.johnson,@example.com
+1156,Alice Davis,40.0,Active,2024-10-02,107693.38,alice.davis@example.com,4121820969,Average,True,HR,New York,True,alice.davis,@example.com
+1157,David Johnson,NA,Inactive,2021-05-13,119217.46,david.johnson@example.com,2316433480,Poor,False,Cloud Tech,Texas,True,david.johnson,@example.com
+1158,David Smith,25.0,Pending,2021-03-18,106913.71,david.smith@example.com,7058025661,Average,False,Sales,New York,True,david.smith,@example.com
+1159,Charlie Brown,NA,Active,2020-09-23,87815.08,charlie.brown@example.com,1286716322,Average,True,Cloud Tech,California,True,charlie.brown,@example.com
+1160,Bob Davis,25.0,Inactive,2024-06-05,105190.21,bob.davis@example.com,4672994937,Good,True,Admin,Texas,True,bob.davis,@example.com
+1161,Alice Smith,30.0,Active,2024-02-28,79467.24,alice.smith@example.com,7430271692,Poor,False,HR,Texas,True,alice.smith,@example.com
+1162,Bob Garcia,40.0,Pending,2023-04-30,57633.78,bob.garcia@example.com,8597779013,Poor,True,Finance,California,True,bob.garcia,@example.com
+1163,Alice Brown,NA,Pending,2020-03-04,54257.78,alice.brown@example.com,7546926328,Poor,True,HR,Florida,True,alice.brown,@example.com
+1164,Grace Johnson,40.0,Inactive,2023-12-29,113679.06,grace.johnson@example.com,6762916031,Poor,True,DevOps,Texas,True,grace.johnson,@example.com
+1165,Bob Smith,35.0,Active,2020-09-15,69251.12,bob.smith@example.com,4841376814,Poor,True,Sales,New York,True,bob.smith,@example.com
+1166,Frank Garcia,40.0,Inactive,2022-07-18,85388.58,frank.garcia@example.com,1185672437,Poor,True,Sales,Illinois,True,frank.garcia,@example.com
+1167,Bob Davis,NA,Inactive,2022-07-13,112166.37,bob.davis@example.com,701765635,Excellent,False,DevOps,New York,True,bob.davis,@example.com
+1168,Heidi Davis,40.0,Active,2021-10-02,79873.48,heidi.davis@example.com,41257770,Average,False,Finance,Nevada,True,heidi.davis,@example.com
+1169,Frank Miller,30.0,Active,2020-07-05,108224.03,frank.miller@example.com,1837274219,Poor,True,DevOps,Florida,True,frank.miller,@example.com
+1170,Bob Garcia,35.0,Active,2023-04-16,116963.72,bob.garcia@example.com,9124186209,Average,True,Admin,Illinois,True,bob.garcia,@example.com
+1171,Bob Jones,40.0,Inactive,2024-11-12,114109.06,bob.jones@example.com,4275230836,Average,True,HR,Nevada,True,bob.jones,@example.com
+1172,Eva Williams,NA,Active,2023-03-29,85518.88,eva.williams@example.com,816470899,Excellent,False,HR,California,True,eva.williams,@example.com
+1173,Heidi Brown,30.0,Pending,2022-01-22,58041.97,heidi.brown@example.com,6335331059,Poor,True,Cloud Tech,California,True,heidi.brown,@example.com
+1174,David Garcia,40.0,Pending,2023-10-14,94988.94,david.garcia@example.com,531312205,Good,False,Sales,Illinois,True,david.garcia,@example.com
+1175,Eva Miller,25.0,Pending,2024-04-10,71628.93,eva.miller@example.com,8155839385,Excellent,False,Admin,California,True,eva.miller,@example.com
+1176,Alice Williams,30.0,Pending,2022-03-31,54870.98,alice.williams@example.com,6133155205,Good,False,Admin,Illinois,True,alice.williams,@example.com
+1177,Alice Williams,25.0,Active,2022-02-09,79388.27,alice.williams@example.com,5063731494,Average,True,DevOps,Illinois,True,alice.williams,@example.com
+1178,Frank Smith,35.0,Pending,2023-05-06,55946.99,frank.smith@example.com,136497188,Average,False,DevOps,California,True,frank.smith,@example.com
+1179,Charlie Williams,NA,Active,2021-07-11,81017.91,charlie.williams@example.com,2419562524,Excellent,True,Cloud Tech,Nevada,True,charlie.williams,@example.com
+1180,Heidi Jones,40.0,Pending,2020-08-21,74162.1,heidi.jones@example.com,7150997682,Excellent,False,HR,New York,True,heidi.jones,@example.com
+1181,Heidi Davis,NA,Active,2021-03-27,77668.44,heidi.davis@example.com,8903091435,Good,True,DevOps,California,True,heidi.davis,@example.com
+1182,Alice Miller,30.0,Active,2024-04-14,67886.37,alice.miller@example.com,3910257431,Poor,False,HR,New York,True,alice.miller,@example.com
+1183,Alice Williams,40.0,Active,2020-09-21,76614.52,alice.williams@example.com,6303975244,Good,True,DevOps,Florida,True,alice.williams,@example.com
+1184,Frank Smith,25.0,Active,2022-06-12,51311.91,frank.smith@example.com,864035532,Excellent,False,Finance,Nevada,True,frank.smith,@example.com
+1185,Frank Jones,NA,Inactive,2023-12-24,94809.92,frank.jones@example.com,8033968526,Good,True,Finance,Illinois,True,frank.jones,@example.com
+1186,Grace Johnson,25.0,Pending,2022-07-31,108241.81,grace.johnson@example.com,171302320,Excellent,True,HR,New York,True,grace.johnson,@example.com
+1187,Bob Davis,40.0,Inactive,2023-04-21,78031.49,bob.davis@example.com,2983381673,Good,True,Cloud Tech,New York,True,bob.davis,@example.com
+1188,Eva Davis,35.0,Active,2020-06-05,85733.83,eva.davis@example.com,2336293448,Excellent,True,Admin,California,True,eva.davis,@example.com
+1189,David Miller,35.0,Pending,2024-07-27,60338.29,david.miller@example.com,7347156626,Excellent,False,HR,Nevada,True,david.miller,@example.com
+1190,Eva Davis,30.0,Active,2024-04-05,103140.67,eva.davis@example.com,7689627065,Excellent,False,Admin,Illinois,True,eva.davis,@example.com
+1191,Heidi Williams,40.0,Inactive,2023-10-26,114690.8,heidi.williams@example.com,1498282466,Poor,True,Sales,Illinois,True,heidi.williams,@example.com
+1192,Frank Smith,35.0,Active,2022-08-18,80954.56,frank.smith@example.com,4746897151,Good,False,Admin,Florida,True,frank.smith,@example.com
+1193,Eva Davis,NA,Pending,2020-05-31,71728.55,eva.davis@example.com,7323008575,Good,True,Cloud Tech,California,True,eva.davis,@example.com
+1194,Alice Davis,35.0,Pending,2024-11-04,118415.8,alice.davis@example.com,6656749159,Good,True,HR,Texas,True,alice.davis,@example.com
+1195,Grace Johnson,40.0,Pending,2020-03-25,81481.36,grace.johnson@example.com,1692364586,Excellent,False,Sales,Illinois,True,grace.johnson,@example.com
+1196,David Johnson,35.0,Pending,2020-11-04,117040.57,david.johnson@example.com,5066337049,Good,True,Sales,Florida,True,david.johnson,@example.com
+1197,Frank Brown,25.0,Active,2020-03-21,67342.06,frank.brown@example.com,2497243991,Good,True,Sales,Nevada,True,frank.brown,@example.com
+1198,Heidi Jones,NA,Active,2022-01-15,76099.64,heidi.jones@example.com,116691835,Excellent,False,Sales,Illinois,True,heidi.jones,@example.com
+1199,Grace Williams,35.0,Active,2024-06-04,94162.06,grace.williams@example.com,2644886945,Average,True,DevOps,Illinois,True,grace.williams,@example.com
+1200,Frank Davis,25.0,Inactive,2021-08-04,67639.7,frank.davis@example.com,1195243639,Excellent,True,Sales,Nevada,True,frank.davis,@example.com
+1201,Charlie Garcia,35.0,Pending,2020-10-16,114172.25,charlie.garcia@example.com,2701168645,Good,True,Cloud Tech,Illinois,True,charlie.garcia,@example.com
+1202,Grace Davis,30.0,Active,2021-09-26,89124.54,grace.davis@example.com,2252237280,Excellent,True,Sales,Nevada,True,grace.davis,@example.com
+1203,Frank Smith,30.0,Pending,2023-11-04,113871.36,frank.smith@example.com,7932302345,Average,False,DevOps,Nevada,True,frank.smith,@example.com
+1204,Grace Brown,NA,Inactive,2021-09-24,62618.4,grace.brown@example.com,7912141613,Excellent,False,HR,Texas,True,grace.brown,@example.com
+1205,Heidi Jones,30.0,Active,2020-06-07,70705.45,heidi.jones@example.com,1509377099,Good,False,Admin,New York,True,heidi.jones,@example.com
+1206,Alice Garcia,35.0,Pending,2022-02-10,60797.69,alice.garcia@example.com,4090138068,Average,True,Sales,New York,True,alice.garcia,@example.com
+1207,Charlie Brown,40.0,Inactive,2023-10-17,100371.0,charlie.brown@example.com,8477596554,Poor,True,Cloud Tech,Florida,True,charlie.brown,@example.com
+1208,Eva Miller,40.0,Active,2021-09-25,117591.76,eva.miller@example.com,5356690550,Good,False,Admin,Illinois,True,eva.miller,@example.com
+1209,David Jones,35.0,Inactive,2022-08-03,103860.7,david.jones@example.com,762091842,Average,True,DevOps,Illinois,True,david.jones,@example.com
+1210,Grace Davis,30.0,Active,2024-11-22,67500.22,grace.davis@example.com,5797863049,Average,True,Admin,Illinois,True,grace.davis,@example.com
+1211,Frank Davis,NA,Pending,2024-10-09,58727.44,frank.davis@example.com,5057397690,Poor,True,Cloud Tech,Nevada,True,frank.davis,@example.com
+1212,Charlie Jones,35.0,Active,2024-08-28,80623.08,charlie.jones@example.com,5671649327,Excellent,True,Finance,Illinois,True,charlie.jones,@example.com
+1213,David Davis,40.0,Inactive,2020-04-19,77751.78,david.davis@example.com,9802714871,Excellent,False,HR,Texas,True,david.davis,@example.com
+1214,Grace Williams,25.0,Active,2021-10-14,115157.81,grace.williams@example.com,7178333210,Good,False,HR,New York,True,grace.williams,@example.com
+1215,Frank Jones,30.0,Inactive,2024-08-26,83071.85,frank.jones@example.com,6025643470,Poor,False,Admin,Texas,True,frank.jones,@example.com
+1216,Heidi Brown,40.0,Active,2020-02-08,67914.67,heidi.brown@example.com,2871539914,Excellent,True,Sales,Texas,True,heidi.brown,@example.com
+1217,Grace Jones,25.0,Inactive,2020-09-06,53342.46,grace.jones@example.com,6686334140,Poor,False,HR,New York,True,grace.jones,@example.com
+1218,Heidi Garcia,25.0,Pending,2023-01-02,51150.47,heidi.garcia@example.com,1159319524,Excellent,False,Cloud Tech,Florida,True,heidi.garcia,@example.com
+1219,David Davis,30.0,Active,2023-06-13,74697.12,david.davis@example.com,6904098365,Average,True,HR,Florida,True,david.davis,@example.com
+1220,Charlie Williams,25.0,Active,2022-12-13,88085.74,charlie.williams@example.com,5528993159,Excellent,True,Sales,California,True,charlie.williams,@example.com
+1221,Alice Williams,40.0,Pending,2022-03-03,118672.76,alice.williams@example.com,8752437728,Poor,False,Finance,Texas,True,alice.williams,@example.com
+1222,Alice Miller,35.0,Active,2024-02-10,95997.31,alice.miller@example.com,4209548148,Average,False,Cloud Tech,California,True,alice.miller,@example.com
+1223,Frank Brown,30.0,Pending,2021-11-24,106945.62,frank.brown@example.com,7374605232,Average,False,Cloud Tech,California,True,frank.brown,@example.com
+1224,Heidi Johnson,40.0,Active,2020-05-09,100123.15,heidi.johnson@example.com,276420864,Average,False,DevOps,New York,True,heidi.johnson,@example.com
+1225,Alice Johnson,35.0,Active,2024-12-19,52933.42,alice.johnson@example.com,6756618442,Poor,True,Admin,Texas,True,alice.johnson,@example.com
+1226,Grace Jones,NA,Active,2024-03-22,95283.03,grace.jones@example.com,8612590471,Good,False,Finance,California,True,grace.jones,@example.com
+1227,Alice Miller,35.0,Inactive,2022-06-13,112264.06,alice.miller@example.com,9277423329,Good,False,HR,Texas,True,alice.miller,@example.com
+1228,Grace Smith,35.0,Pending,2022-10-15,75714.28,grace.smith@example.com,5912662014,Good,True,Admin,Florida,True,grace.smith,@example.com
+1229,Eva Jones,25.0,Active,2022-05-31,92171.73,eva.jones@example.com,7201859625,Poor,False,DevOps,Florida,True,eva.jones,@example.com
+1230,Eva Miller,35.0,Inactive,2023-09-15,70694.8,eva.miller@example.com,3013674925,Average,True,Cloud Tech,Texas,True,eva.miller,@example.com
+1231,Grace Brown,30.0,Inactive,2022-07-04,52964.86,grace.brown@example.com,1764750110,Good,True,DevOps,Florida,True,grace.brown,@example.com
+1232,Frank Brown,NA,Pending,2024-06-08,116353.31,frank.brown@example.com,1783099973,Poor,True,Finance,California,True,frank.brown,@example.com
+1233,Grace Brown,35.0,Pending,2020-11-23,116695.26,grace.brown@example.com,1926764920,Good,False,Sales,Nevada,True,grace.brown,@example.com
+1234,Heidi Brown,25.0,Active,2024-05-13,95161.4,heidi.brown@example.com,5182606887,Excellent,False,Admin,Texas,True,heidi.brown,@example.com
+1235,Alice Brown,NA,Inactive,2022-01-29,76040.94,alice.brown@example.com,7189813128,Good,True,Admin,Nevada,True,alice.brown,@example.com
+1236,Charlie Miller,NA,Inactive,2023-08-23,69508.28,charlie.miller@example.com,2087510292,Good,False,HR,Florida,True,charlie.miller,@example.com
+1237,Alice Miller,30.0,Inactive,2023-02-24,58243.27,alice.miller@example.com,2184011844,Average,False,Finance,Illinois,True,alice.miller,@example.com
+1238,Heidi Williams,30.0,Pending,2022-10-02,64012.48,heidi.williams@example.com,8260340847,Poor,True,Sales,California,True,heidi.williams,@example.com
+1239,Bob Garcia,40.0,Inactive,2020-06-28,106735.93,bob.garcia@example.com,7297585987,Average,True,Admin,Nevada,True,bob.garcia,@example.com
+1240,Frank Johnson,35.0,Pending,2023-01-15,70325.36,frank.johnson@example.com,3103032431,Average,False,DevOps,Texas,True,frank.johnson,@example.com
+1241,Charlie Davis,30.0,Active,2020-09-05,118959.28,charlie.davis@example.com,9839542960,Average,True,HR,Illinois,True,charlie.davis,@example.com
+1242,David Brown,40.0,Pending,2023-03-18,75823.78,david.brown@example.com,8446267145,Average,False,Cloud Tech,California,True,david.brown,@example.com
+1243,Charlie Smith,NA,Inactive,2022-03-26,119971.65,charlie.smith@example.com,2831435988,Average,False,Cloud Tech,Texas,True,charlie.smith,@example.com
+1244,Grace Davis,40.0,Active,2021-10-11,94963.7,grace.davis@example.com,2625660930,Good,False,Sales,Texas,True,grace.davis,@example.com
+1245,Frank Miller,30.0,Pending,2021-01-07,103744.71,frank.miller@example.com,4181861514,Average,False,Sales,Nevada,True,frank.miller,@example.com
+1246,Alice Smith,25.0,Inactive,2020-12-03,61337.69,alice.smith@example.com,5423401635,Average,True,Sales,New York,True,alice.smith,@example.com
+1247,David Smith,35.0,Active,2021-05-28,63741.13,david.smith@example.com,1128497184,Poor,True,Sales,California,True,david.smith,@example.com
+1248,Eva Smith,30.0,Pending,2022-12-28,56539.99,eva.smith@example.com,9484910255,Excellent,True,DevOps,California,True,eva.smith,@example.com
+1249,Charlie Williams,30.0,Pending,2023-05-24,73633.37,charlie.williams@example.com,2588967923,Good,True,DevOps,Illinois,True,charlie.williams,@example.com
+1250,Alice Miller,25.0,Pending,2024-04-28,90373.99,alice.miller@example.com,822269404,Good,False,Cloud Tech,Texas,True,alice.miller,@example.com
+1251,Grace Smith,NA,Inactive,2024-12-25,93901.48,grace.smith@example.com,3967275783,Good,False,DevOps,Texas,True,grace.smith,@example.com
+1252,Eva Brown,40.0,Inactive,2021-09-01,81748.09,eva.brown@example.com,4683414650,Average,True,Admin,Nevada,True,eva.brown,@example.com
+1253,Charlie Jones,40.0,Inactive,2021-02-21,73813.48,charlie.jones@example.com,1131290147,Average,False,Finance,Florida,True,charlie.jones,@example.com
+1254,Frank Smith,35.0,Inactive,2022-11-20,89315.59,frank.smith@example.com,7068277880,Average,False,Finance,New York,True,frank.smith,@example.com
+1255,Heidi Williams,25.0,Active,2020-10-15,56776.82,heidi.williams@example.com,6093068537,Poor,False,HR,Florida,True,heidi.williams,@example.com
+1256,Grace Davis,NA,Active,2024-07-24,72920.51,grace.davis@example.com,9097283214,Excellent,True,Finance,New York,True,grace.davis,@example.com
+1257,Frank Miller,30.0,Pending,2022-08-14,84913.18,frank.miller@example.com,2850676250,Average,True,Admin,Florida,True,frank.miller,@example.com
+1258,Alice Garcia,25.0,Inactive,2021-05-08,65060.11,alice.garcia@example.com,5381447442,Excellent,True,Finance,Illinois,True,alice.garcia,@example.com
+1259,Alice Williams,35.0,Pending,2023-10-09,82941.08,alice.williams@example.com,963480796,Poor,False,Finance,Illinois,True,alice.williams,@example.com
+1260,Bob Smith,40.0,Pending,2022-01-19,103469.97,bob.smith@example.com,509754509,Good,True,Admin,California,True,bob.smith,@example.com
+1261,Grace Miller,25.0,Active,2022-01-12,88725.6,grace.miller@example.com,5265016730,Average,True,Sales,Illinois,True,grace.miller,@example.com
+1262,Heidi Jones,NA,Pending,2023-06-05,58316.77,heidi.jones@example.com,8826170242,Excellent,True,HR,Illinois,True,heidi.jones,@example.com
+1263,Grace Smith,35.0,Inactive,2024-03-26,60098.72,grace.smith@example.com,7654562840,Excellent,True,HR,Illinois,True,grace.smith,@example.com
+1264,Grace Williams,NA,Active,2020-10-07,99951.43,grace.williams@example.com,7722560530,Average,True,Cloud Tech,Texas,True,grace.williams,@example.com
+1265,Heidi Johnson,30.0,Active,2021-11-02,115195.81,heidi.johnson@example.com,3402665022,Good,True,Sales,Illinois,True,heidi.johnson,@example.com
+1266,Grace Brown,NA,Pending,2021-11-19,85512.05,grace.brown@example.com,7416787255,Good,False,DevOps,California,True,grace.brown,@example.com
+1267,Heidi Garcia,NA,Active,2022-01-24,73186.77,heidi.garcia@example.com,8621102257,Good,False,HR,Florida,True,heidi.garcia,@example.com
+1268,Grace Davis,NA,Pending,2023-07-12,51865.3,grace.davis@example.com,305690673,Poor,True,HR,Nevada,True,grace.davis,@example.com
+1269,David Williams,25.0,Active,2022-12-09,94031.77,david.williams@example.com,4716392822,Excellent,True,Sales,Florida,True,david.williams,@example.com
+1270,Grace Miller,30.0,Active,2023-03-18,116374.36,grace.miller@example.com,4143637188,Excellent,False,DevOps,New York,True,grace.miller,@example.com
+1271,Alice Garcia,40.0,Active,2022-04-25,98335.02,alice.garcia@example.com,2392312603,Excellent,False,HR,Florida,True,alice.garcia,@example.com
+1272,Heidi Garcia,25.0,Pending,2021-02-28,89262.07,heidi.garcia@example.com,3260931065,Poor,True,DevOps,New York,True,heidi.garcia,@example.com
+1273,Heidi Garcia,NA,Active,2022-07-30,113848.69,heidi.garcia@example.com,8433567085,Excellent,True,Finance,California,True,heidi.garcia,@example.com
+1274,Frank Smith,35.0,Active,2021-05-19,69530.45,frank.smith@example.com,414545634,Poor,True,Sales,Florida,True,frank.smith,@example.com
+1275,Eva Brown,35.0,Pending,2023-12-14,84230.22,eva.brown@example.com,200053473,Good,True,DevOps,New York,True,eva.brown,@example.com
+1276,Eva Smith,35.0,Pending,2023-01-17,76578.59,eva.smith@example.com,9162475540,Average,False,Cloud Tech,Illinois,True,eva.smith,@example.com
+1277,Frank Miller,30.0,Inactive,2024-01-02,55532.06,frank.miller@example.com,1082555988,Excellent,True,HR,Texas,True,frank.miller,@example.com
+1278,Eva Smith,40.0,Pending,2021-07-09,115311.68,eva.smith@example.com,5343961128,Excellent,True,Admin,New York,True,eva.smith,@example.com
+1279,Charlie Johnson,25.0,Pending,2021-05-05,66972.06,charlie.johnson@example.com,1093371188,Good,True,Sales,Nevada,True,charlie.johnson,@example.com
+1280,David Brown,30.0,Inactive,2021-11-07,100215.06,david.brown@example.com,5473820235,Average,True,Cloud Tech,Texas,True,david.brown,@example.com
+1281,Charlie Brown,25.0,Inactive,2023-08-30,115452.25,charlie.brown@example.com,8485571616,Poor,False,Sales,New York,True,charlie.brown,@example.com
+1282,Heidi Miller,30.0,Inactive,2023-08-15,54141.38,heidi.miller@example.com,6880294239,Average,False,HR,California,True,heidi.miller,@example.com
+1283,David Davis,NA,Active,2020-12-24,79251.95,david.davis@example.com,9036788126,Good,False,DevOps,Nevada,True,david.davis,@example.com
+1284,Alice Johnson,40.0,Pending,2024-11-21,114822.78,alice.johnson@example.com,8686694319,Good,True,Finance,New York,True,alice.johnson,@example.com
+1285,Alice Williams,35.0,Active,2021-11-17,69919.32,alice.williams@example.com,2939087883,Average,True,Sales,Illinois,True,alice.williams,@example.com
+1286,Heidi Smith,30.0,Inactive,2021-01-29,106616.97,heidi.smith@example.com,4344812307,Poor,False,Sales,Florida,True,heidi.smith,@example.com
+1287,Heidi Jones,35.0,Active,2024-02-17,73597.85,heidi.jones@example.com,3402424032,Poor,True,DevOps,New York,True,heidi.jones,@example.com
+1288,David Smith,30.0,Inactive,2024-08-20,79939.23,david.smith@example.com,8105955183,Excellent,True,Sales,Nevada,True,david.smith,@example.com
+1289,Grace Garcia,25.0,Inactive,2021-10-24,85155.06,grace.garcia@example.com,2694500533,Poor,False,Admin,New York,True,grace.garcia,@example.com
+1290,Grace Smith,30.0,Inactive,2021-09-10,90772.25,grace.smith@example.com,2408916497,Average,False,Finance,California,True,grace.smith,@example.com
+1291,Eva Williams,35.0,Active,2023-09-29,58275.74,eva.williams@example.com,3735439626,Good,False,DevOps,New York,True,eva.williams,@example.com
+1292,Grace Smith,NA,Pending,2020-08-28,94709.79,grace.smith@example.com,3652717271,Excellent,False,DevOps,California,True,grace.smith,@example.com
+1293,Frank Johnson,NA,Active,2022-09-06,60722.99,frank.johnson@example.com,2397240421,Excellent,True,Admin,New York,True,frank.johnson,@example.com
+1294,Frank Johnson,40.0,Inactive,2024-03-31,87626.24,frank.johnson@example.com,6931216375,Good,True,DevOps,Illinois,True,frank.johnson,@example.com
+1295,David Brown,30.0,Active,2022-12-12,81272.36,david.brown@example.com,1820916600,Poor,False,DevOps,Illinois,True,david.brown,@example.com
+1296,Bob Miller,NA,Pending,2022-11-01,64150.97,bob.miller@example.com,23142899,Good,True,Cloud Tech,Texas,True,bob.miller,@example.com
+1297,Charlie Davis,35.0,Active,2023-10-25,64378.1,charlie.davis@example.com,1851327971,Poor,False,Sales,Florida,True,charlie.davis,@example.com
+1298,Bob Jones,NA,Inactive,2020-09-27,85927.35,bob.jones@example.com,4572308480,Good,False,Finance,Texas,True,bob.jones,@example.com
+1299,Alice Garcia,NA,Inactive,2024-01-21,51523.93,alice.garcia@example.com,18418619,Average,True,Finance,Nevada,True,alice.garcia,@example.com
+1300,Alice Smith,30.0,Active,2022-05-17,74117.02,alice.smith@example.com,3036625435,Poor,False,Sales,Texas,True,alice.smith,@example.com
+1301,Alice Smith,25.0,Inactive,2022-04-17,62598.69,alice.smith@example.com,1721314518,Average,True,Finance,Texas,True,alice.smith,@example.com
+1302,Grace Williams,35.0,Inactive,2022-02-08,55617.5,grace.williams@example.com,5151092267,Excellent,True,Finance,Florida,True,grace.williams,@example.com
+1303,Charlie Miller,35.0,Pending,2022-03-15,87018.98,charlie.miller@example.com,5926249450,Good,True,Cloud Tech,New York,True,charlie.miller,@example.com
+1304,David Johnson,25.0,Inactive,2023-10-11,100336.58,david.johnson@example.com,4754102251,Excellent,True,Cloud Tech,California,True,david.johnson,@example.com
+1305,Grace Jones,30.0,Inactive,2020-11-13,69295.48,grace.jones@example.com,6771196420,Excellent,False,Admin,Florida,True,grace.jones,@example.com
+1306,Bob Brown,25.0,Pending,2024-04-17,115536.66,bob.brown@example.com,5226557675,Excellent,True,DevOps,Florida,True,bob.brown,@example.com
+1307,David Johnson,30.0,Pending,2020-03-09,81250.87,david.johnson@example.com,9523668787,Excellent,False,Cloud Tech,Texas,True,david.johnson,@example.com
+1308,Alice Garcia,30.0,Inactive,2022-06-17,66403.75,alice.garcia@example.com,7883619688,Good,False,DevOps,Texas,True,alice.garcia,@example.com
+1309,Alice Miller,30.0,Active,2024-07-28,114147.79,alice.miller@example.com,3135030586,Excellent,False,Sales,California,True,alice.miller,@example.com
+1310,Frank Garcia,30.0,Pending,2022-12-03,65472.99,frank.garcia@example.com,2105524727,Good,False,HR,New York,True,frank.garcia,@example.com
+1311,Alice Davis,NA,Active,2023-07-06,97512.51,alice.davis@example.com,6333021259,Good,True,Sales,Nevada,True,alice.davis,@example.com
+1312,Alice Brown,35.0,Inactive,2024-05-28,86712.41,alice.brown@example.com,6501917919,Average,True,DevOps,Nevada,True,alice.brown,@example.com
+1313,Grace Davis,30.0,Active,2024-03-25,87654.98,grace.davis@example.com,2521310961,Poor,False,HR,Florida,True,grace.davis,@example.com
+1314,David Williams,35.0,Inactive,2020-04-28,89367.02,david.williams@example.com,2728476569,Poor,False,DevOps,New York,True,david.williams,@example.com
+1315,Charlie Garcia,40.0,Active,2021-11-07,95269.41,charlie.garcia@example.com,4120092819,Good,True,Admin,California,True,charlie.garcia,@example.com
+1316,Frank Williams,25.0,Active,2020-04-15,68792.31,frank.williams@example.com,6678498435,Average,False,Sales,Nevada,True,frank.williams,@example.com
+1317,Alice Smith,25.0,Pending,2023-10-07,89119.53,alice.smith@example.com,2418623689,Good,True,Admin,Illinois,True,alice.smith,@example.com
+1318,Frank Davis,35.0,Active,2024-02-27,58212.13,frank.davis@example.com,3628917755,Good,False,Cloud Tech,New York,True,frank.davis,@example.com
+1319,Heidi Miller,30.0,Pending,2021-02-22,77764.24,heidi.miller@example.com,6205634110,Good,True,DevOps,Illinois,True,heidi.miller,@example.com
+1320,Frank Garcia,35.0,Pending,2023-08-21,75148.17,frank.garcia@example.com,5950342810,Average,False,Finance,Florida,True,frank.garcia,@example.com
+1321,Heidi Jones,40.0,Inactive,2024-04-08,108781.18,heidi.jones@example.com,3904383033,Poor,False,Cloud Tech,Nevada,True,heidi.jones,@example.com
+1322,Frank Brown,35.0,Pending,2024-11-04,65489.19,frank.brown@example.com,1990970050,Average,True,Finance,Texas,True,frank.brown,@example.com
+1323,Eva Johnson,NA,Pending,2022-05-05,70663.46,eva.johnson@example.com,4054683564,Excellent,False,Sales,Illinois,True,eva.johnson,@example.com
+1324,David Miller,40.0,Inactive,2023-02-01,95822.56,david.miller@example.com,2156818208,Average,False,Sales,New York,True,david.miller,@example.com
+1325,Eva Miller,40.0,Pending,2022-10-01,82258.03,eva.miller@example.com,6790422710,Average,True,DevOps,Nevada,True,eva.miller,@example.com
+1326,Frank Williams,30.0,Pending,2022-09-27,62883.34,frank.williams@example.com,3322889856,Average,False,Admin,Nevada,True,frank.williams,@example.com
+1327,Alice Davis,NA,Pending,2020-04-09,103503.72,alice.davis@example.com,2545960632,Average,True,Cloud Tech,Texas,True,alice.davis,@example.com
+1328,David Garcia,25.0,Active,2021-03-23,85401.3,david.garcia@example.com,9912971023,Poor,True,DevOps,New York,True,david.garcia,@example.com
+1329,Heidi Garcia,40.0,Pending,2023-02-03,85155.06,heidi.garcia@example.com,8171752420,Excellent,False,Cloud Tech,Texas,True,heidi.garcia,@example.com
+1330,Eva Smith,NA,Pending,2024-07-23,98850.14,eva.smith@example.com,4955112746,Poor,False,HR,Texas,True,eva.smith,@example.com
+1331,Charlie Smith,25.0,Active,2021-05-08,63435.24,charlie.smith@example.com,4721970545,Poor,False,Cloud Tech,Illinois,True,charlie.smith,@example.com
+1332,Frank Brown,35.0,Inactive,2022-04-11,82129.84,frank.brown@example.com,6927589550,Average,False,Finance,Texas,True,frank.brown,@example.com
+1333,David Williams,35.0,Pending,2024-10-23,95492.61,david.williams@example.com,6874090379,Good,False,DevOps,Texas,True,david.williams,@example.com
+1334,Grace Miller,40.0,Inactive,2020-04-24,94572.37,grace.miller@example.com,2146296135,Good,False,Finance,Illinois,True,grace.miller,@example.com
+1335,Bob Garcia,40.0,Inactive,2023-03-04,118413.05,bob.garcia@example.com,7157787111,Poor,False,Finance,Nevada,True,bob.garcia,@example.com
+1336,Alice Jones,30.0,Pending,2022-08-31,68976.65,alice.jones@example.com,1663651558,Poor,True,Admin,Nevada,True,alice.jones,@example.com
+1337,Eva Williams,NA,Active,2021-01-02,115013.65,eva.williams@example.com,7371470826,Average,False,Sales,Nevada,True,eva.williams,@example.com
+1338,David Brown,NA,Inactive,2020-06-06,70949.38,david.brown@example.com,2359096055,Poor,True,Admin,Nevada,True,david.brown,@example.com
+1339,Grace Brown,NA,Pending,2020-10-13,105334.87,grace.brown@example.com,7303064420,Average,False,HR,Florida,True,grace.brown,@example.com
+1340,Bob Williams,NA,Active,2020-07-19,80596.18,bob.williams@example.com,2146147682,Good,False,DevOps,California,True,bob.williams,@example.com
+1341,Frank Brown,NA,Inactive,2024-05-03,72846.37,frank.brown@example.com,4201654234,Good,True,Sales,Illinois,True,frank.brown,@example.com
+1342,Heidi Williams,40.0,Pending,2022-02-07,80229.36,heidi.williams@example.com,6778265959,Excellent,False,Admin,California,True,heidi.williams,@example.com
+1343,Grace Johnson,25.0,Active,2023-12-31,55145.47,grace.johnson@example.com,8931992549,Good,False,Sales,California,True,grace.johnson,@example.com
+1344,Grace Williams,30.0,Inactive,2022-01-08,85155.06,grace.williams@example.com,2727516479,Poor,True,DevOps,Florida,True,grace.williams,@example.com
+1345,Eva Davis,40.0,Active,2020-09-28,56110.81,eva.davis@example.com,7279103367,Good,False,HR,California,True,eva.davis,@example.com
+1346,Grace Williams,25.0,Inactive,2023-02-09,56514.5,grace.williams@example.com,2963533904,Average,False,Cloud Tech,Texas,True,grace.williams,@example.com
+1347,Frank Brown,40.0,Inactive,2022-03-05,104541.84,frank.brown@example.com,5044817765,Good,False,Cloud Tech,California,True,frank.brown,@example.com
+1348,David Garcia,NA,Pending,2022-02-18,61865.12,david.garcia@example.com,5586851275,Excellent,True,Sales,New York,True,david.garcia,@example.com
+1349,Eva Davis,40.0,Active,2022-06-09,69317.33,eva.davis@example.com,5289286645,Good,False,Admin,Texas,True,eva.davis,@example.com
+1350,Bob Brown,35.0,Pending,2023-07-04,84706.17,bob.brown@example.com,4911110960,Average,False,HR,New York,True,bob.brown,@example.com
+1351,Heidi Smith,25.0,Active,2022-03-21,73255.21,heidi.smith@example.com,7981789045,Average,False,Admin,California,True,heidi.smith,@example.com
+1352,Frank Smith,40.0,Pending,2023-05-02,59528.71,frank.smith@example.com,3378613714,Poor,False,HR,Florida,True,frank.smith,@example.com
+1353,David Garcia,40.0,Inactive,2021-10-15,70401.37,david.garcia@example.com,7660538443,Good,True,HR,New York,True,david.garcia,@example.com
+1354,Heidi Garcia,NA,Inactive,2021-07-28,107154.62,heidi.garcia@example.com,4630600024,Average,True,Admin,California,True,heidi.garcia,@example.com
+1355,Bob Davis,NA,Pending,2021-01-03,97719.88,bob.davis@example.com,8955296385,Excellent,False,Admin,Illinois,True,bob.davis,@example.com
+1356,Heidi Johnson,30.0,Pending,2020-05-21,107327.59,heidi.johnson@example.com,3960962625,Poor,False,Finance,California,True,heidi.johnson,@example.com
+1357,Grace Garcia,40.0,Inactive,2021-05-10,67687.72,grace.garcia@example.com,5826312818,Excellent,True,Admin,Nevada,True,grace.garcia,@example.com
+1358,Grace Smith,40.0,Pending,2022-09-08,90757.08,grace.smith@example.com,6482531105,Good,True,Cloud Tech,Florida,True,grace.smith,@example.com
+1359,Grace Williams,NA,Pending,2024-07-21,87583.42,grace.williams@example.com,920981959,Good,False,Cloud Tech,California,True,grace.williams,@example.com
+1360,Bob Brown,25.0,Pending,2021-12-28,61643.69,bob.brown@example.com,2752334382,Good,True,Admin,Nevada,True,bob.brown,@example.com
+1361,Grace Smith,35.0,Active,2020-07-20,68111.69,grace.smith@example.com,6404120910,Poor,False,Finance,Texas,True,grace.smith,@example.com
+1362,David Smith,40.0,Inactive,2024-04-30,97568.88,david.smith@example.com,7911244210,Average,True,HR,Florida,True,david.smith,@example.com
+1363,Charlie Johnson,35.0,Active,2021-08-28,79118.28,charlie.johnson@example.com,7536170616,Poor,True,Cloud Tech,Florida,True,charlie.johnson,@example.com
+1364,Bob Davis,30.0,Inactive,2022-07-21,104898.9,bob.davis@example.com,1366572239,Excellent,True,HR,California,True,bob.davis,@example.com
+1365,Frank Davis,40.0,Pending,2023-11-27,81671.3,frank.davis@example.com,2990155798,Poor,True,Cloud Tech,Florida,True,frank.davis,@example.com
+1366,Alice Miller,25.0,Pending,2020-08-11,97399.75,alice.miller@example.com,8028413907,Excellent,False,Cloud Tech,California,True,alice.miller,@example.com
+1367,David Johnson,NA,Active,2021-11-08,89189.43,david.johnson@example.com,882351304,Poor,True,Admin,Illinois,True,david.johnson,@example.com
+1368,David Williams,40.0,Active,2023-08-04,96011.55,david.williams@example.com,2312447314,Average,True,DevOps,New York,True,david.williams,@example.com
+1369,David Davis,40.0,Inactive,2020-01-10,99331.49,david.davis@example.com,8477686341,Excellent,False,Sales,Florida,True,david.davis,@example.com
+1370,Bob Brown,NA,Active,2022-01-19,72818.94,bob.brown@example.com,3461994236,Good,True,Cloud Tech,Illinois,True,bob.brown,@example.com
+1371,Eva Garcia,40.0,Inactive,2023-05-07,77204.75,eva.garcia@example.com,6769459195,Good,True,Sales,Nevada,True,eva.garcia,@example.com
+1372,Bob Johnson,35.0,Pending,2020-12-19,106961.68,bob.johnson@example.com,6395517207,Poor,False,HR,Florida,True,bob.johnson,@example.com
+1373,Eva Garcia,NA,Pending,2020-10-01,71923.0,eva.garcia@example.com,4964985600,Good,True,Sales,Texas,True,eva.garcia,@example.com
+1374,Bob Smith,30.0,Active,2022-11-12,77192.43,bob.smith@example.com,2562531354,Excellent,False,HR,Nevada,True,bob.smith,@example.com
+1375,Grace Brown,40.0,Pending,2023-01-05,98540.3,grace.brown@example.com,2510505378,Good,False,Admin,Florida,True,grace.brown,@example.com
+1376,Charlie Brown,NA,Inactive,2020-10-14,63096.9,charlie.brown@example.com,5381649382,Average,False,Admin,Florida,True,charlie.brown,@example.com
+1377,Alice Smith,35.0,Active,2021-02-03,107065.12,alice.smith@example.com,1849196654,Average,False,Cloud Tech,Florida,True,alice.smith,@example.com
+1378,Heidi Johnson,40.0,Inactive,2023-12-25,108792.43,heidi.johnson@example.com,3307704610,Poor,True,DevOps,Florida,True,heidi.johnson,@example.com
+1379,Bob Smith,NA,Inactive,2020-03-07,69239.7,bob.smith@example.com,7295963903,Excellent,False,Cloud Tech,New York,True,bob.smith,@example.com
+1380,Charlie Garcia,40.0,Inactive,2023-01-30,85756.42,charlie.garcia@example.com,907426087,Average,True,Sales,Nevada,True,charlie.garcia,@example.com
+1381,Eva Miller,NA,Active,2024-04-05,100328.62,eva.miller@example.com,501716444,Average,True,HR,Illinois,True,eva.miller,@example.com
+1382,Grace Brown,25.0,Active,2021-09-01,111236.69,grace.brown@example.com,5618579063,Excellent,True,DevOps,Nevada,True,grace.brown,@example.com
+1383,Eva Jones,35.0,Active,2024-05-07,106832.22,eva.jones@example.com,7715910299,Good,True,Cloud Tech,Florida,True,eva.jones,@example.com
+1384,Frank Jones,NA,Active,2023-06-15,59746.45,frank.jones@example.com,2156321357,Good,True,DevOps,Florida,True,frank.jones,@example.com
+1385,David Garcia,25.0,Pending,2021-07-29,91780.04,david.garcia@example.com,40104144,Poor,True,Sales,California,True,david.garcia,@example.com
+1386,Eva Williams,35.0,Pending,2023-10-23,107062.66,eva.williams@example.com,9642297124,Good,True,Sales,California,True,eva.williams,@example.com
+1387,Grace Davis,25.0,Active,2023-12-07,110625.52,grace.davis@example.com,2967188396,Excellent,True,HR,Nevada,True,grace.davis,@example.com
+1388,Frank Smith,30.0,Inactive,2020-10-18,90419.79,frank.smith@example.com,7457314414,Average,True,DevOps,Florida,True,frank.smith,@example.com
+1389,Grace Smith,40.0,Pending,2024-06-15,111608.76,grace.smith@example.com,8331170302,Good,True,Finance,Texas,True,grace.smith,@example.com
+1390,Eva Williams,35.0,Inactive,2023-04-06,50173.12,eva.williams@example.com,7637153987,Poor,False,Finance,Florida,True,eva.williams,@example.com
+1391,Bob Williams,40.0,Pending,2022-01-03,109507.44,bob.williams@example.com,5472812355,Good,False,DevOps,Nevada,True,bob.williams,@example.com
+1392,Grace Garcia,30.0,Inactive,2021-07-03,72600.56,grace.garcia@example.com,7983631461,Excellent,False,Finance,New York,True,grace.garcia,@example.com
+1393,Charlie Garcia,NA,Pending,2024-04-10,53388.65,charlie.garcia@example.com,4912711306,Poor,True,Finance,California,True,charlie.garcia,@example.com
+1394,Heidi Williams,25.0,Inactive,2022-07-23,50047.32,heidi.williams@example.com,2407875417,Good,False,Cloud Tech,New York,True,heidi.williams,@example.com
+1395,David Brown,30.0,Active,2024-11-25,115290.79,david.brown@example.com,1563268684,Poor,False,DevOps,California,True,david.brown,@example.com
+1396,Frank Garcia,35.0,Pending,2023-08-21,61586.76,frank.garcia@example.com,745106633,Excellent,False,Cloud Tech,California,True,frank.garcia,@example.com
+1397,Eva Miller,30.0,Active,2023-12-12,56662.86,eva.miller@example.com,3629489785,Average,True,Finance,Nevada,True,eva.miller,@example.com
+1398,Bob Garcia,30.0,Pending,2023-10-24,85155.06,bob.garcia@example.com,1031310093,Excellent,True,Sales,New York,True,bob.garcia,@example.com
+1399,Frank Smith,25.0,Active,2022-09-05,54957.98,frank.smith@example.com,3181439665,Excellent,True,Finance,Nevada,True,frank.smith,@example.com
+1400,Bob Garcia,25.0,Inactive,2020-10-07,76790.47,bob.garcia@example.com,1347323548,Excellent,True,HR,California,True,bob.garcia,@example.com
+1401,Charlie Brown,30.0,Pending,2020-01-18,92722.35,charlie.brown@example.com,4012897431,Excellent,False,Cloud Tech,Illinois,True,charlie.brown,@example.com
+1402,Frank Williams,30.0,Active,2022-04-23,93125.32,frank.williams@example.com,5122572075,Average,False,DevOps,Nevada,True,frank.williams,@example.com
+1403,David Smith,25.0,Active,2023-04-22,101100.64,david.smith@example.com,5024120956,Average,False,Cloud Tech,New York,True,david.smith,@example.com
+1404,Grace Garcia,35.0,Inactive,2023-08-13,55897.41,grace.garcia@example.com,9073710093,Poor,False,Admin,New York,True,grace.garcia,@example.com
+1405,Eva Brown,25.0,Active,2022-11-26,92484.88,eva.brown@example.com,3882211456,Good,True,DevOps,California,True,eva.brown,@example.com
+1406,Grace Miller,35.0,Active,2022-10-10,77011.99,grace.miller@example.com,7584745704,Average,True,DevOps,Texas,True,grace.miller,@example.com
+1407,Bob Garcia,NA,Inactive,2020-09-27,77078.68,bob.garcia@example.com,4589714801,Average,True,Cloud Tech,California,True,bob.garcia,@example.com
+1408,Grace Brown,35.0,Active,2024-04-11,82971.02,grace.brown@example.com,6325703964,Good,False,Sales,Nevada,True,grace.brown,@example.com
+1409,Bob Miller,25.0,Active,2021-06-20,65102.01,bob.miller@example.com,3136148781,Average,True,Sales,Texas,True,bob.miller,@example.com
+1410,Grace Williams,NA,Pending,2022-10-23,103697.7,grace.williams@example.com,4556964429,Excellent,True,HR,Nevada,True,grace.williams,@example.com
+1411,Grace Garcia,25.0,Pending,2023-06-15,60687.63,grace.garcia@example.com,9859167953,Excellent,False,DevOps,Illinois,True,grace.garcia,@example.com
+1412,Bob Miller,NA,Pending,2021-10-31,77351.21,bob.miller@example.com,1072728497,Good,False,Admin,New York,True,bob.miller,@example.com
+1413,Bob Smith,35.0,Pending,2024-09-29,66704.62,bob.smith@example.com,2474140702,Poor,True,DevOps,Florida,True,bob.smith,@example.com
+1414,Grace Williams,25.0,Pending,2020-04-22,71650.3,grace.williams@example.com,4910740649,Poor,True,Finance,Illinois,True,grace.williams,@example.com
+1415,Charlie Smith,25.0,Active,2023-12-07,50794.54,charlie.smith@example.com,425488213,Good,True,Cloud Tech,Nevada,True,charlie.smith,@example.com
+1416,Frank Jones,NA,Inactive,2020-12-07,76030.86,frank.jones@example.com,2369143074,Good,True,Sales,Nevada,True,frank.jones,@example.com
+1417,Eva Johnson,25.0,Inactive,2021-07-11,86669.79,eva.johnson@example.com,3666144941,Excellent,True,Cloud Tech,California,True,eva.johnson,@example.com
+1418,Bob Garcia,40.0,Inactive,2020-04-23,84972.7,bob.garcia@example.com,9659234267,Poor,True,Finance,Illinois,True,bob.garcia,@example.com
+1419,Frank Miller,30.0,Pending,2023-10-12,100594.49,frank.miller@example.com,3441497825,Average,False,HR,Texas,True,frank.miller,@example.com
+1420,Alice Johnson,25.0,Active,2022-08-24,75478.35,alice.johnson@example.com,6128758574,Excellent,False,Cloud Tech,New York,True,alice.johnson,@example.com
+1421,Charlie Johnson,25.0,Pending,2023-09-04,79355.85,charlie.johnson@example.com,6766708060,Good,False,Sales,Nevada,True,charlie.johnson,@example.com
+1422,Grace Miller,35.0,Pending,2022-02-02,58358.07,grace.miller@example.com,2943985297,Poor,True,HR,Texas,True,grace.miller,@example.com
+1423,Alice Williams,30.0,Active,2022-04-01,54824.85,alice.williams@example.com,9406260786,Average,False,Admin,Illinois,True,alice.williams,@example.com
+1424,Eva Garcia,35.0,Pending,2022-07-24,50557.84,eva.garcia@example.com,104159148,Average,True,HR,Texas,True,eva.garcia,@example.com
+1425,Eva Jones,NA,Inactive,2023-04-26,118030.04,eva.jones@example.com,7501980381,Excellent,True,Admin,Florida,True,eva.jones,@example.com
+1426,David Smith,NA,Active,2022-04-19,51673.72,david.smith@example.com,8723244078,Poor,False,Admin,New York,True,david.smith,@example.com
+1427,Alice Brown,35.0,Inactive,2024-10-04,101665.79,alice.brown@example.com,3110291812,Poor,True,Cloud Tech,Nevada,True,alice.brown,@example.com
+1428,David Smith,NA,Inactive,2020-05-02,118079.15,david.smith@example.com,3170876013,Good,True,Admin,Florida,True,david.smith,@example.com
+1429,Eva Brown,25.0,Pending,2022-04-25,99059.28,eva.brown@example.com,6723849790,Poor,False,Cloud Tech,New York,True,eva.brown,@example.com
+1430,Bob Smith,NA,Active,2023-07-29,107397.4,bob.smith@example.com,6202232882,Poor,False,Cloud Tech,Illinois,True,bob.smith,@example.com
+1431,Alice Miller,40.0,Active,2021-08-20,68269.37,alice.miller@example.com,7744197545,Excellent,False,DevOps,New York,True,alice.miller,@example.com
+1432,Grace Jones,35.0,Inactive,2021-04-23,55228.12,grace.jones@example.com,6176620470,Poor,True,HR,Florida,True,grace.jones,@example.com
+1433,Bob Garcia,30.0,Inactive,2022-08-12,71982.33,bob.garcia@example.com,9609409704,Average,False,Cloud Tech,New York,True,bob.garcia,@example.com
+1434,Frank Brown,30.0,Inactive,2021-06-26,109673.75,frank.brown@example.com,2774025882,Excellent,False,Finance,California,True,frank.brown,@example.com
+1435,Eva Garcia,NA,Inactive,2020-10-30,56384.9,eva.garcia@example.com,5868122594,Excellent,True,Cloud Tech,New York,True,eva.garcia,@example.com
+1436,Frank Garcia,40.0,Pending,2021-09-04,68211.68,frank.garcia@example.com,7244617678,Good,False,Sales,Texas,True,frank.garcia,@example.com
+1437,Alice Garcia,40.0,Pending,2023-01-31,67489.68,alice.garcia@example.com,2988425994,Poor,False,Finance,Illinois,True,alice.garcia,@example.com
+1438,Charlie Davis,25.0,Active,2020-09-24,63869.31,charlie.davis@example.com,9961002310,Good,False,Cloud Tech,Texas,True,charlie.davis,@example.com
+1439,Bob Williams,NA,Active,2020-02-14,119801.3,bob.williams@example.com,7753312660,Average,True,Sales,California,True,bob.williams,@example.com
+1440,Heidi Smith,30.0,Active,2020-03-28,115959.65,heidi.smith@example.com,941017589,Excellent,True,Cloud Tech,California,True,heidi.smith,@example.com
+1441,Grace Garcia,40.0,Inactive,2023-10-31,79866.48,grace.garcia@example.com,2517629832,Excellent,True,Finance,Texas,True,grace.garcia,@example.com
+1442,Charlie Smith,35.0,Active,2020-03-11,92987.46,charlie.smith@example.com,4774332682,Excellent,True,HR,Florida,True,charlie.smith,@example.com
+1443,Eva Garcia,40.0,Inactive,2020-05-04,56140.51,eva.garcia@example.com,1901302055,Average,False,Finance,Illinois,True,eva.garcia,@example.com
+1444,Grace Brown,30.0,Active,2023-07-15,119586.11,grace.brown@example.com,9815287338,Average,True,DevOps,Illinois,True,grace.brown,@example.com
+1445,Alice Williams,40.0,Inactive,2023-01-20,104700.46,alice.williams@example.com,7855982175,Good,True,DevOps,California,True,alice.williams,@example.com
+1446,Frank Williams,40.0,Active,2021-10-15,91798.14,frank.williams@example.com,6191284116,Good,False,HR,New York,True,frank.williams,@example.com
+1447,Eva Miller,25.0,Inactive,2024-04-19,90879.22,eva.miller@example.com,3098503445,Good,False,Finance,Illinois,True,eva.miller,@example.com
+1448,Charlie Davis,25.0,Active,2021-06-29,87358.27,charlie.davis@example.com,5124189388,Poor,False,Admin,Nevada,True,charlie.davis,@example.com
+1449,Alice Miller,30.0,Inactive,2024-09-14,119407.93,alice.miller@example.com,8469081973,Excellent,True,Sales,Florida,True,alice.miller,@example.com
+1450,David Miller,NA,Pending,2022-01-04,113978.6,david.miller@example.com,56435022,Excellent,True,HR,Nevada,True,david.miller,@example.com
+1451,Frank Miller,NA,Pending,2021-01-20,108568.78,frank.miller@example.com,8503719904,Good,True,Sales,New York,True,frank.miller,@example.com
+1452,Heidi Miller,NA,Inactive,2020-03-18,56318.02,heidi.miller@example.com,1699187239,Excellent,False,HR,New York,True,heidi.miller,@example.com
+1453,David Miller,25.0,Active,2021-11-10,114252.73,david.miller@example.com,1078356742,Good,False,Sales,Florida,True,david.miller,@example.com
+1454,Charlie Jones,35.0,Inactive,2020-05-01,51533.9,charlie.jones@example.com,3896086,Poor,True,DevOps,New York,True,charlie.jones,@example.com
+1455,Charlie Williams,25.0,Active,2022-02-04,99317.66,charlie.williams@example.com,662668216,Poor,False,Sales,California,True,charlie.williams,@example.com
+1456,Bob Miller,35.0,Active,2020-11-18,101264.64,bob.miller@example.com,1955356032,Average,False,HR,California,True,bob.miller,@example.com
+1457,Heidi Garcia,35.0,Pending,2023-11-21,112272.02,heidi.garcia@example.com,1903689002,Poor,False,Admin,Nevada,True,heidi.garcia,@example.com
+1458,Frank Williams,30.0,Active,2022-02-13,71477.63,frank.williams@example.com,102724054,Good,True,DevOps,Illinois,True,frank.williams,@example.com
+1459,Charlie Williams,30.0,Pending,2023-03-19,77412.1,charlie.williams@example.com,9342967110,Poor,False,DevOps,Texas,True,charlie.williams,@example.com
+1460,Alice Johnson,30.0,Pending,2021-03-28,94775.27,alice.johnson@example.com,4837537457,Average,False,Sales,California,True,alice.johnson,@example.com
+1461,Heidi Jones,30.0,Active,2021-05-02,74276.71,heidi.jones@example.com,4384588104,Excellent,True,HR,Nevada,True,heidi.jones,@example.com
+1462,Bob Miller,35.0,Inactive,2021-03-05,67467.86,bob.miller@example.com,6974132833,Good,True,Finance,Texas,True,bob.miller,@example.com
+1463,Eva Smith,25.0,Active,2022-03-01,80675.41,eva.smith@example.com,8315203770,Excellent,False,DevOps,Texas,True,eva.smith,@example.com
+1464,Charlie Brown,40.0,Inactive,2023-01-23,76274.33,charlie.brown@example.com,704496409,Average,False,Finance,Florida,True,charlie.brown,@example.com
+1465,David Davis,30.0,Active,2021-08-26,51405.46,david.davis@example.com,4967066702,Average,True,Finance,Texas,True,david.davis,@example.com
+1466,Bob Garcia,25.0,Inactive,2020-11-25,101238.96,bob.garcia@example.com,3626804084,Average,True,HR,New York,True,bob.garcia,@example.com
+1467,Bob Smith,35.0,Inactive,2023-12-13,52169.52,bob.smith@example.com,954930595,Excellent,False,Sales,Illinois,True,bob.smith,@example.com
+1468,Charlie Jones,NA,Active,2020-07-26,73176.62,charlie.jones@example.com,6018648768,Excellent,False,Finance,New York,True,charlie.jones,@example.com
+1469,Grace Brown,NA,Pending,2021-06-27,96241.85,grace.brown@example.com,9842673203,Excellent,False,DevOps,Nevada,True,grace.brown,@example.com
+1470,Bob Jones,25.0,Pending,2024-09-16,84366.38,bob.jones@example.com,4138459608,Excellent,False,Finance,Illinois,True,bob.jones,@example.com
+1471,Alice Garcia,40.0,Pending,2023-07-04,92015.09,alice.garcia@example.com,4544901494,Average,True,Cloud Tech,California,True,alice.garcia,@example.com
+1472,Alice Williams,30.0,Inactive,2020-06-16,83149.95,alice.williams@example.com,4277070704,Average,False,Admin,Nevada,True,alice.williams,@example.com
+1473,Grace Brown,40.0,Inactive,2020-07-05,94930.65,grace.brown@example.com,7836091497,Good,False,Finance,Nevada,True,grace.brown,@example.com
+1474,Frank Williams,40.0,Inactive,2020-04-01,68430.72,frank.williams@example.com,5172444722,Good,True,HR,New York,True,frank.williams,@example.com
+1475,David Garcia,35.0,Active,2024-03-20,98752.97,david.garcia@example.com,2290310286,Excellent,False,Sales,Texas,True,david.garcia,@example.com
+1476,Frank Smith,NA,Active,2023-02-07,54268.86,frank.smith@example.com,9508304404,Poor,True,Finance,Illinois,True,frank.smith,@example.com
+1477,Grace Garcia,NA,Pending,2024-12-10,66494.94,grace.garcia@example.com,8093511870,Poor,False,DevOps,Florida,True,grace.garcia,@example.com
+1478,Grace Smith,25.0,Pending,2024-06-27,90003.98,grace.smith@example.com,8133595615,Average,False,Sales,Illinois,True,grace.smith,@example.com
+1479,Charlie Brown,25.0,Active,2021-03-09,106592.25,charlie.brown@example.com,4205955656,Average,True,Finance,New York,True,charlie.brown,@example.com
+1480,Grace Brown,25.0,Active,2024-08-11,93905.83,grace.brown@example.com,4902504289,Average,True,DevOps,Florida,True,grace.brown,@example.com
+1481,Eva Miller,35.0,Active,2022-03-05,88945.49,eva.miller@example.com,1935889535,Good,False,DevOps,Texas,True,eva.miller,@example.com
+1482,Eva Jones,NA,Pending,2023-06-30,91130.33,eva.jones@example.com,9026113988,Good,False,Finance,Texas,True,eva.jones,@example.com
+1483,Bob Miller,40.0,Pending,2023-04-19,90787.4,bob.miller@example.com,8681809787,Average,False,Admin,New York,True,bob.miller,@example.com
+1484,Bob Jones,25.0,Inactive,2024-11-11,87494.34,bob.jones@example.com,7543943534,Average,True,Sales,Texas,True,bob.jones,@example.com
+1485,Grace Miller,35.0,Inactive,2023-03-17,92627.35,grace.miller@example.com,3751376514,Average,False,Finance,Nevada,True,grace.miller,@example.com
+1486,Eva Williams,40.0,Pending,2023-10-26,98556.29,eva.williams@example.com,8815793762,Poor,True,Admin,Illinois,True,eva.williams,@example.com
+1487,Frank Brown,30.0,Inactive,2021-07-04,112792.2,frank.brown@example.com,9283692943,Good,True,Cloud Tech,Nevada,True,frank.brown,@example.com
+1488,Eva Smith,35.0,Pending,2023-11-03,56875.22,eva.smith@example.com,5511668296,Poor,False,HR,Florida,True,eva.smith,@example.com
+1489,Charlie Jones,35.0,Inactive,2021-07-05,101015.96,charlie.jones@example.com,3270216486,Poor,True,DevOps,Florida,True,charlie.jones,@example.com
+1490,Bob Garcia,30.0,Inactive,2024-02-26,83912.22,bob.garcia@example.com,1206021287,Average,False,Finance,New York,True,bob.garcia,@example.com
+1491,Frank Jones,25.0,Active,2021-09-29,99669.86,frank.jones@example.com,6652683414,Average,False,Sales,New York,True,frank.jones,@example.com
+1492,Alice Smith,30.0,Active,2021-05-25,52314.97,alice.smith@example.com,5999101575,Excellent,False,Admin,New York,True,alice.smith,@example.com
+1493,Frank Miller,30.0,Inactive,2022-10-31,77785.96,frank.miller@example.com,7647229811,Excellent,False,HR,California,True,frank.miller,@example.com
+1494,Alice Jones,30.0,Pending,2022-07-02,62430.86,alice.jones@example.com,995765727,Poor,False,HR,Florida,True,alice.jones,@example.com
+1495,Frank Davis,35.0,Pending,2024-08-28,98219.54,frank.davis@example.com,9413475097,Good,True,Admin,California,True,frank.davis,@example.com
+1496,Grace Williams,25.0,Active,2024-10-21,65494.58,grace.williams@example.com,8986456521,Average,True,Admin,Illinois,True,grace.williams,@example.com
+1497,David Brown,35.0,Pending,2020-02-11,110524.1,david.brown@example.com,368499514,Average,False,DevOps,Florida,True,david.brown,@example.com
+1498,Alice Smith,40.0,Active,2023-05-16,106060.54,alice.smith@example.com,4214477323,Poor,False,Admin,Nevada,True,alice.smith,@example.com
+1499,Eva Brown,35.0,Inactive,2022-07-29,67639.91,eva.brown@example.com,4913421387,Excellent,True,Finance,Florida,True,eva.brown,@example.com
+1500,Grace Davis,NA,Pending,2023-09-18,117653.98,grace.davis@example.com,2090883069,Good,True,Cloud Tech,Texas,True,grace.davis,@example.com
+1501,Eva Jones,35.0,Inactive,2020-05-10,73539.86,eva.jones@example.com,5349678273,Excellent,True,DevOps,Texas,True,eva.jones,@example.com
+1502,Frank Jones,35.0,Pending,2023-08-27,70915.38,frank.jones@example.com,1176741240,Excellent,True,HR,Nevada,True,frank.jones,@example.com
+1503,David Garcia,25.0,Pending,2021-10-16,97652.9,david.garcia@example.com,5131528546,Excellent,False,Sales,Florida,True,david.garcia,@example.com
+1504,Heidi Davis,35.0,Inactive,2022-03-06,101571.25,heidi.davis@example.com,8150618537,Excellent,False,HR,Florida,True,heidi.davis,@example.com
+1505,David Smith,35.0,Active,2023-11-06,87424.46,david.smith@example.com,32963346,Average,True,DevOps,Nevada,True,david.smith,@example.com
+1506,Frank Garcia,NA,Pending,2024-11-30,89077.36,frank.garcia@example.com,2727423182,Average,False,HR,New York,True,frank.garcia,@example.com
+1507,Heidi Williams,30.0,Pending,2024-07-13,89132.22,heidi.williams@example.com,617893205,Excellent,True,DevOps,California,True,heidi.williams,@example.com
+1508,Frank Garcia,25.0,Active,2024-03-04,111000.26,frank.garcia@example.com,4969357823,Good,False,Admin,California,True,frank.garcia,@example.com
+1509,Frank Johnson,35.0,Inactive,2022-08-07,109584.97,frank.johnson@example.com,3477695873,Poor,True,HR,Illinois,True,frank.johnson,@example.com
+1510,Bob Smith,40.0,Active,2024-11-11,97648.84,bob.smith@example.com,1314675360,Good,False,Admin,Illinois,True,bob.smith,@example.com
+1511,Grace Johnson,25.0,Active,2021-12-02,78643.43,grace.johnson@example.com,2751562778,Good,True,Admin,New York,True,grace.johnson,@example.com
+1512,Heidi Davis,30.0,Active,2024-05-14,55656.8,heidi.davis@example.com,6304483607,Good,True,HR,Nevada,True,heidi.davis,@example.com
+1513,Charlie Miller,35.0,Active,2022-07-14,69146.95,charlie.miller@example.com,5456676639,Excellent,False,DevOps,Texas,True,charlie.miller,@example.com
+1514,Charlie Johnson,NA,Active,2020-09-22,93013.58,charlie.johnson@example.com,4735047638,Average,True,Admin,Florida,True,charlie.johnson,@example.com
+1515,Grace Williams,40.0,Active,2020-03-18,87364.78,grace.williams@example.com,2831995297,Good,False,Finance,Florida,True,grace.williams,@example.com
+1516,Alice Garcia,35.0,Active,2023-10-17,50288.67,alice.garcia@example.com,61558107,Excellent,False,Sales,New York,True,alice.garcia,@example.com
+1517,David Miller,35.0,Active,2022-02-24,85233.55,david.miller@example.com,3583286341,Good,True,HR,New York,True,david.miller,@example.com
+1518,Bob Garcia,25.0,Inactive,2024-01-30,86420.19,bob.garcia@example.com,5563830007,Good,False,HR,California,True,bob.garcia,@example.com
+1519,Grace Johnson,30.0,Inactive,2024-03-16,63189.82,grace.johnson@example.com,1867024402,Excellent,False,HR,Florida,True,grace.johnson,@example.com
+1520,Grace Garcia,25.0,Pending,2020-09-25,64783.32,grace.garcia@example.com,3041662410,Average,False,Admin,New York,True,grace.garcia,@example.com
+1521,Charlie Davis,25.0,Pending,2024-06-10,52615.44,charlie.davis@example.com,1860089218,Average,False,HR,Nevada,True,charlie.davis,@example.com
+1522,Eva Miller,NA,Pending,2020-04-08,96337.89,eva.miller@example.com,6394568043,Poor,False,Sales,Texas,True,eva.miller,@example.com
+1523,Alice Davis,25.0,Inactive,2022-06-28,76617.76,alice.davis@example.com,7314976460,Excellent,True,DevOps,Texas,True,alice.davis,@example.com
+1524,Heidi Johnson,30.0,Pending,2023-07-14,50651.32,heidi.johnson@example.com,3684748835,Poor,False,Admin,Nevada,True,heidi.johnson,@example.com
+1525,Bob Davis,NA,Pending,2023-12-06,59601.45,bob.davis@example.com,765817389,Poor,False,HR,Illinois,True,bob.davis,@example.com
+1526,Bob Williams,NA,Active,2021-08-01,57980.88,bob.williams@example.com,6375791451,Poor,False,DevOps,Illinois,True,bob.williams,@example.com
+1527,David Johnson,NA,Pending,2021-02-17,75054.53,david.johnson@example.com,1182379311,Average,False,Admin,California,True,david.johnson,@example.com
+1528,Charlie Johnson,25.0,Active,2023-11-10,115318.7,charlie.johnson@example.com,6978930745,Excellent,False,Sales,Florida,True,charlie.johnson,@example.com
+1529,Alice Johnson,25.0,Active,2024-09-06,90190.69,alice.johnson@example.com,4520599603,Poor,True,DevOps,Texas,True,alice.johnson,@example.com
+1530,Bob Smith,NA,Pending,2020-07-26,113334.56,bob.smith@example.com,3878753576,Excellent,False,Cloud Tech,Nevada,True,bob.smith,@example.com
+1531,Heidi Garcia,35.0,Active,2020-07-23,106922.49,heidi.garcia@example.com,8811616201,Excellent,True,HR,Florida,True,heidi.garcia,@example.com
+1532,Eva Smith,35.0,Inactive,2024-02-21,58113.07,eva.smith@example.com,8123710671,Average,True,DevOps,California,True,eva.smith,@example.com
+1533,Alice Smith,25.0,Pending,2020-12-15,73006.26,alice.smith@example.com,8728660415,Poor,True,Admin,Nevada,True,alice.smith,@example.com
+1534,Eva Williams,25.0,Active,2020-08-21,78054.43,eva.williams@example.com,4485959223,Poor,True,HR,California,True,eva.williams,@example.com
+1535,Eva Miller,40.0,Inactive,2023-08-21,112028.67,eva.miller@example.com,8395894772,Excellent,False,DevOps,Florida,True,eva.miller,@example.com
+1536,Charlie Garcia,25.0,Inactive,2023-04-24,83787.24,charlie.garcia@example.com,5228705621,Good,True,Admin,Texas,True,charlie.garcia,@example.com
+1537,Heidi Davis,30.0,Inactive,2023-06-06,52017.14,heidi.davis@example.com,7104331874,Average,True,Sales,Florida,True,heidi.davis,@example.com
+1538,Charlie Jones,40.0,Inactive,2022-06-21,53218.06,charlie.jones@example.com,1097921582,Average,False,Finance,Texas,True,charlie.jones,@example.com
+1539,Frank Johnson,25.0,Pending,2024-04-20,102053.67,frank.johnson@example.com,5034469458,Average,False,DevOps,Nevada,True,frank.johnson,@example.com
+1540,David Davis,35.0,Pending,2023-12-05,93276.73,david.davis@example.com,6488319212,Average,False,Sales,Illinois,True,david.davis,@example.com
+1541,David Johnson,40.0,Pending,2023-08-06,76941.36,david.johnson@example.com,4249128964,Poor,True,HR,Nevada,True,david.johnson,@example.com
+1542,Alice Williams,25.0,Pending,2024-10-04,82850.23,alice.williams@example.com,9994973202,Poor,False,DevOps,New York,True,alice.williams,@example.com
+1543,Charlie Johnson,25.0,Active,2021-11-08,117910.15,charlie.johnson@example.com,3192227050,Good,False,Finance,California,True,charlie.johnson,@example.com
+1544,David Smith,NA,Inactive,2024-07-31,66450.0,david.smith@example.com,287675480,Average,True,DevOps,Florida,True,david.smith,@example.com
+1545,Heidi Garcia,25.0,Inactive,2020-08-31,118646.95,heidi.garcia@example.com,3866675484,Average,False,Finance,Florida,True,heidi.garcia,@example.com
+1546,Alice Jones,25.0,Active,2023-02-15,88436.92,alice.jones@example.com,8193242686,Excellent,False,Finance,Florida,True,alice.jones,@example.com
+1547,Eva Brown,NA,Pending,2023-10-07,81934.55,eva.brown@example.com,7418652056,Poor,False,Sales,New York,True,eva.brown,@example.com
+1548,Alice Johnson,30.0,Pending,2024-04-20,93383.06,alice.johnson@example.com,5639836519,Average,False,Finance,California,True,alice.johnson,@example.com
+1549,Frank Davis,40.0,Pending,2021-03-30,50153.79,frank.davis@example.com,3758309450,Good,True,Cloud Tech,Texas,True,frank.davis,@example.com
+1550,Eva Smith,NA,Pending,2020-08-05,53204.47,eva.smith@example.com,5480940475,Good,False,Sales,California,True,eva.smith,@example.com
+1551,Charlie Brown,40.0,Pending,2021-02-05,63128.04,charlie.brown@example.com,440907976,Poor,False,Cloud Tech,California,True,charlie.brown,@example.com
+1552,Grace Jones,30.0,Pending,2021-11-23,57543.6,grace.jones@example.com,2781050921,Good,True,Finance,New York,True,grace.jones,@example.com
+1553,Bob Brown,40.0,Pending,2022-10-29,59424.52,bob.brown@example.com,2161070517,Good,False,Finance,Nevada,True,bob.brown,@example.com
+1554,Alice Smith,NA,Inactive,2022-11-07,104675.7,alice.smith@example.com,4390552957,Poor,True,Finance,Illinois,True,alice.smith,@example.com
+1555,Charlie Garcia,30.0,Pending,2023-05-14,92431.25,charlie.garcia@example.com,660138240,Average,False,Cloud Tech,Florida,True,charlie.garcia,@example.com
+1556,Grace Garcia,40.0,Active,2021-07-14,77850.9,grace.garcia@example.com,2704938619,Average,True,Sales,Nevada,True,grace.garcia,@example.com
+1557,Eva Miller,40.0,Inactive,2023-05-18,99001.0,eva.miller@example.com,4485157918,Good,True,Admin,New York,True,eva.miller,@example.com
+1558,Eva Garcia,NA,Pending,2023-02-07,94280.83,eva.garcia@example.com,7111212589,Good,True,HR,Nevada,True,eva.garcia,@example.com
+1559,Eva Miller,35.0,Pending,2023-08-24,118262.56,eva.miller@example.com,2035713431,Average,True,DevOps,New York,True,eva.miller,@example.com
+1560,Frank Brown,25.0,Inactive,2023-04-08,89944.67,frank.brown@example.com,4064242955,Poor,False,HR,Illinois,True,frank.brown,@example.com
+1561,Grace Williams,NA,Active,2022-12-06,57452.93,grace.williams@example.com,3343244740,Good,True,HR,Florida,True,grace.williams,@example.com
+1562,Alice Davis,25.0,Active,2021-08-09,97837.32,alice.davis@example.com,7595587208,Excellent,False,Admin,California,True,alice.davis,@example.com
+1563,Alice Davis,35.0,Active,2022-01-04,106981.84,alice.davis@example.com,6289365434,Poor,True,Admin,Illinois,True,alice.davis,@example.com
+1564,David Brown,NA,Pending,2024-05-25,105778.36,david.brown@example.com,8841834373,Good,True,Finance,New York,True,david.brown,@example.com
+1565,Alice Johnson,40.0,Pending,2021-10-02,117608.32,alice.johnson@example.com,182727954,Good,True,Finance,Florida,True,alice.johnson,@example.com
+1566,Eva Johnson,30.0,Active,2023-07-21,99324.03,eva.johnson@example.com,9690515025,Excellent,False,Sales,Florida,True,eva.johnson,@example.com
+1567,David Garcia,30.0,Active,2023-10-30,55212.83,david.garcia@example.com,7551254277,Excellent,True,HR,Florida,True,david.garcia,@example.com
+1568,Bob Davis,40.0,Inactive,2023-02-13,68496.77,bob.davis@example.com,2079799666,Average,False,Cloud Tech,Florida,True,bob.davis,@example.com
+1569,Eva Davis,25.0,Pending,2020-11-13,52795.84,eva.davis@example.com,3459576402,Poor,False,HR,Florida,True,eva.davis,@example.com
+1570,Alice Miller,NA,Inactive,2024-06-05,90087.39,alice.miller@example.com,8166496901,Poor,False,DevOps,California,True,alice.miller,@example.com
+1571,Frank Williams,NA,Pending,2020-05-19,105038.08,frank.williams@example.com,8249839224,Average,False,Admin,New York,True,frank.williams,@example.com
+1572,Grace Smith,25.0,Active,2023-09-20,73231.85,grace.smith@example.com,142576269,Poor,False,HR,New York,True,grace.smith,@example.com
+1573,David Johnson,NA,Pending,2024-08-13,102649.36,david.johnson@example.com,2324412335,Poor,False,Sales,Florida,True,david.johnson,@example.com
+1574,Bob Davis,35.0,Pending,2023-06-10,114302.51,bob.davis@example.com,1328507250,Poor,False,Finance,New York,True,bob.davis,@example.com
+1575,Alice Miller,35.0,Inactive,2021-06-09,87816.61,alice.miller@example.com,7863767315,Poor,False,Finance,Texas,True,alice.miller,@example.com
+1576,Frank Jones,NA,Inactive,2020-03-30,70750.38,frank.jones@example.com,2526546967,Poor,False,Sales,Florida,True,frank.jones,@example.com
+1577,Frank Miller,NA,Active,2024-05-02,85155.06,frank.miller@example.com,1579039234,Excellent,True,Cloud Tech,Texas,True,frank.miller,@example.com
+1578,Bob Johnson,30.0,Active,2024-11-06,97978.36,bob.johnson@example.com,5580996131,Poor,True,DevOps,Nevada,True,bob.johnson,@example.com
+1579,David Johnson,NA,Inactive,2023-08-17,107172.8,david.johnson@example.com,7303461561,Excellent,True,DevOps,Nevada,True,david.johnson,@example.com
+1580,Charlie Miller,25.0,Inactive,2020-03-18,56126.46,charlie.miller@example.com,6244670461,Poor,True,Finance,Nevada,True,charlie.miller,@example.com
+1581,Eva Smith,NA,Active,2021-06-13,78534.29,eva.smith@example.com,2681715159,Average,True,Cloud Tech,Illinois,True,eva.smith,@example.com
+1582,Grace Brown,40.0,Inactive,2023-10-10,85155.06,grace.brown@example.com,2529867075,Good,False,HR,Texas,True,grace.brown,@example.com
+1583,Bob Johnson,NA,Active,2022-01-02,114963.34,bob.johnson@example.com,6046419784,Excellent,False,Cloud Tech,Nevada,True,bob.johnson,@example.com
+1584,Eva Miller,NA,Inactive,2022-02-20,77657.93,eva.miller@example.com,7585126860,Poor,False,Cloud Tech,California,True,eva.miller,@example.com
+1585,Heidi Davis,30.0,Active,2024-03-09,77369.48,heidi.davis@example.com,2059438975,Average,False,Sales,New York,True,heidi.davis,@example.com
+1586,Eva Miller,30.0,Pending,2023-08-19,76119.14,eva.miller@example.com,740177508,Good,False,HR,Nevada,True,eva.miller,@example.com
+1587,Charlie Williams,25.0,Pending,2023-05-06,77585.72,charlie.williams@example.com,5465408423,Excellent,False,Cloud Tech,Texas,True,charlie.williams,@example.com
+1588,Bob Brown,35.0,Pending,2024-01-26,74069.62,bob.brown@example.com,5607540914,Good,False,Admin,Nevada,True,bob.brown,@example.com
+1589,Charlie Jones,30.0,Pending,2024-09-05,67691.92,charlie.jones@example.com,863218121,Average,True,Admin,New York,True,charlie.jones,@example.com
+1590,Alice Smith,NA,Pending,2020-05-29,70345.69,alice.smith@example.com,7645793896,Excellent,True,Finance,Nevada,True,alice.smith,@example.com
+1591,Bob Garcia,30.0,Inactive,2021-11-08,74999.69,bob.garcia@example.com,155029167,Good,True,DevOps,Illinois,True,bob.garcia,@example.com
+1592,David Jones,25.0,Active,2021-01-31,72245.02,david.jones@example.com,1546602415,Poor,True,HR,Illinois,True,david.jones,@example.com
+1593,Eva Brown,NA,Pending,2022-01-16,106538.98,eva.brown@example.com,1394498829,Excellent,False,Admin,Illinois,True,eva.brown,@example.com
+1594,Charlie Brown,25.0,Active,2023-12-29,101787.14,charlie.brown@example.com,5973642479,Good,False,HR,New York,True,charlie.brown,@example.com
+1595,Frank Brown,30.0,Inactive,2024-12-02,83596.78,frank.brown@example.com,9624406305,Average,False,DevOps,Nevada,True,frank.brown,@example.com
+1596,Eva Jones,40.0,Active,2023-08-15,92463.94,eva.jones@example.com,2447951329,Average,True,Sales,Texas,True,eva.jones,@example.com
+1597,Charlie Davis,NA,Pending,2024-12-20,93863.32,charlie.davis@example.com,5319497968,Excellent,False,Admin,California,True,charlie.davis,@example.com
+1598,Alice Brown,NA,Pending,2023-03-31,78359.41,alice.brown@example.com,5867805554,Good,False,DevOps,Texas,True,alice.brown,@example.com
+1599,Alice Miller,NA,Pending,2022-08-24,95773.57,alice.miller@example.com,7277382645,Excellent,False,HR,Illinois,True,alice.miller,@example.com
+1600,Grace Jones,30.0,Inactive,2020-10-01,82529.08,grace.jones@example.com,917851384,Excellent,True,Sales,Nevada,True,grace.jones,@example.com
+1601,Grace Garcia,35.0,Pending,2021-05-04,109358.73,grace.garcia@example.com,4457702991,Good,False,Sales,Texas,True,grace.garcia,@example.com
+1602,Charlie Brown,NA,Active,2021-01-01,89645.01,charlie.brown@example.com,9596604872,Good,True,Admin,Florida,True,charlie.brown,@example.com
+1603,Charlie Miller,40.0,Active,2024-04-08,84134.95,charlie.miller@example.com,6826911632,Poor,True,HR,Texas,True,charlie.miller,@example.com
+1604,Frank Davis,30.0,Active,2022-11-26,113540.83,frank.davis@example.com,1942268652,Good,True,Cloud Tech,Nevada,True,frank.davis,@example.com
+1605,Heidi Williams,40.0,Pending,2021-10-25,57225.75,heidi.williams@example.com,6945515887,Average,True,Cloud Tech,Texas,True,heidi.williams,@example.com
+1606,Eva Davis,35.0,Pending,2020-12-22,76366.17,eva.davis@example.com,6367747225,Excellent,False,Sales,Illinois,True,eva.davis,@example.com
+1607,Bob Garcia,NA,Active,2022-11-23,78408.95,bob.garcia@example.com,4085721695,Excellent,True,HR,Florida,True,bob.garcia,@example.com
+1608,Frank Brown,40.0,Active,2022-10-24,111742.4,frank.brown@example.com,6630932997,Average,True,Finance,Illinois,True,frank.brown,@example.com
+1609,David Garcia,25.0,Inactive,2021-03-09,60516.83,david.garcia@example.com,1996059328,Good,False,Sales,Nevada,True,david.garcia,@example.com
+1610,Bob Jones,30.0,Pending,2020-08-20,83706.17,bob.jones@example.com,7150968831,Average,False,Finance,California,True,bob.jones,@example.com
+1611,David Johnson,NA,Inactive,2020-02-15,67056.92,david.johnson@example.com,7532735240,Average,True,Admin,Nevada,True,david.johnson,@example.com
+1612,Charlie Brown,30.0,Active,2024-12-29,90058.85,charlie.brown@example.com,397739731,Poor,False,DevOps,Illinois,True,charlie.brown,@example.com
+1613,Eva Johnson,30.0,Pending,2023-02-28,94633.59,eva.johnson@example.com,7819523709,Average,True,Sales,Florida,True,eva.johnson,@example.com
+1614,Eva Miller,25.0,Pending,2022-08-23,110711.17,eva.miller@example.com,687616480,Excellent,True,Admin,Florida,True,eva.miller,@example.com
+1615,Grace Williams,NA,Active,2023-06-30,96175.41,grace.williams@example.com,9807704604,Average,True,Admin,Illinois,True,grace.williams,@example.com
+1616,Frank Smith,40.0,Active,2021-04-15,76474.79,frank.smith@example.com,6876112490,Excellent,True,Sales,Illinois,True,frank.smith,@example.com
+1617,Alice Garcia,30.0,Pending,2022-05-09,107855.99,alice.garcia@example.com,2565237340,Excellent,False,Sales,Illinois,True,alice.garcia,@example.com
+1618,Charlie Davis,40.0,Active,2024-12-02,104870.78,charlie.davis@example.com,5177345474,Excellent,True,Sales,Illinois,True,charlie.davis,@example.com
+1619,Bob Williams,25.0,Active,2023-05-20,85155.06,bob.williams@example.com,7494902283,Good,False,Finance,Nevada,True,bob.williams,@example.com
+1620,Grace Brown,NA,Active,2023-11-29,87087.16,grace.brown@example.com,359544293,Poor,False,Finance,California,True,grace.brown,@example.com
+1621,Heidi Johnson,40.0,Pending,2024-04-08,108603.34,heidi.johnson@example.com,7742229463,Excellent,False,HR,Illinois,True,heidi.johnson,@example.com
+1622,Grace Davis,30.0,Active,2024-10-25,55867.23,grace.davis@example.com,3039429044,Excellent,False,HR,Florida,True,grace.davis,@example.com
+1623,Grace Johnson,35.0,Pending,2024-03-02,105259.57,grace.johnson@example.com,8867925297,Good,True,Admin,Texas,True,grace.johnson,@example.com
+1624,Bob Jones,NA,Pending,2021-02-24,98143.67,bob.jones@example.com,5856728726,Excellent,False,Cloud Tech,Florida,True,bob.jones,@example.com
+1625,Frank Johnson,25.0,Pending,2023-04-13,67754.29,frank.johnson@example.com,6015343323,Average,True,Admin,Florida,True,frank.johnson,@example.com
+1626,Grace Jones,NA,Inactive,2023-10-25,77821.79,grace.jones@example.com,9135779082,Average,False,HR,Illinois,True,grace.jones,@example.com
+1627,Heidi Miller,30.0,Pending,2022-09-17,67764.44,heidi.miller@example.com,3506158147,Poor,False,HR,Illinois,True,heidi.miller,@example.com
+1628,Frank Davis,40.0,Pending,2020-08-31,102346.99,frank.davis@example.com,8810798333,Excellent,True,DevOps,New York,True,frank.davis,@example.com
+1629,Charlie Davis,25.0,Inactive,2024-05-28,73690.65,charlie.davis@example.com,2337209483,Good,True,Admin,Illinois,True,charlie.davis,@example.com
+1630,Alice Smith,30.0,Active,2024-07-05,56376.2,alice.smith@example.com,1312840332,Average,True,Finance,Nevada,True,alice.smith,@example.com
+1631,Grace Brown,25.0,Active,2022-01-29,55602.78,grace.brown@example.com,9977180512,Good,False,Cloud Tech,California,True,grace.brown,@example.com
+1632,Grace Jones,40.0,Pending,2021-08-09,99812.41,grace.jones@example.com,7171731892,Good,False,Sales,Nevada,True,grace.jones,@example.com
+1633,Charlie Smith,40.0,Active,2024-10-07,95981.9,charlie.smith@example.com,9749096172,Average,True,Finance,Texas,True,charlie.smith,@example.com
+1634,Eva Johnson,30.0,Pending,2022-11-22,98891.48,eva.johnson@example.com,9970469471,Good,True,Cloud Tech,Illinois,True,eva.johnson,@example.com
+1635,Alice Johnson,35.0,Active,2020-11-18,56079.0,alice.johnson@example.com,5878444834,Average,True,Admin,Nevada,True,alice.johnson,@example.com
+1636,Grace Smith,35.0,Inactive,2023-04-15,85155.06,grace.smith@example.com,4884712704,Good,True,DevOps,Florida,True,grace.smith,@example.com
+1637,Bob Davis,25.0,Pending,2024-08-26,89137.97,bob.davis@example.com,8772216416,Average,False,Sales,California,True,bob.davis,@example.com
+1638,Frank Johnson,35.0,Active,2022-07-20,115079.97,frank.johnson@example.com,5823133483,Excellent,True,Admin,Illinois,True,frank.johnson,@example.com
+1639,Eva Garcia,30.0,Active,2023-02-18,55067.02,eva.garcia@example.com,5871493924,Poor,True,Finance,Illinois,True,eva.garcia,@example.com
+1640,Bob Miller,NA,Pending,2021-05-27,98593.43,bob.miller@example.com,2362292586,Average,True,HR,Illinois,True,bob.miller,@example.com
+1641,Heidi Miller,30.0,Pending,2022-08-01,112756.67,heidi.miller@example.com,9643474523,Average,True,HR,Florida,True,heidi.miller,@example.com
+1642,Heidi Garcia,25.0,Inactive,2023-07-21,105205.92,heidi.garcia@example.com,5557469659,Poor,False,HR,Texas,True,heidi.garcia,@example.com
+1643,David Smith,35.0,Pending,2023-01-02,50680.62,david.smith@example.com,6065274032,Average,True,Finance,California,True,david.smith,@example.com
+1644,David Garcia,35.0,Pending,2024-03-13,107475.23,david.garcia@example.com,4450566587,Average,False,Cloud Tech,Florida,True,david.garcia,@example.com
+1645,Charlie Jones,40.0,Active,2023-03-20,68835.3,charlie.jones@example.com,3398741131,Good,True,HR,California,True,charlie.jones,@example.com
+1646,David Jones,40.0,Active,2024-02-15,66943.96,david.jones@example.com,5797067348,Poor,True,DevOps,New York,True,david.jones,@example.com
+1647,David Smith,30.0,Inactive,2020-11-15,104525.69,david.smith@example.com,9601054856,Excellent,False,Admin,Illinois,True,david.smith,@example.com
+1648,Bob Garcia,40.0,Pending,2020-03-27,109360.74,bob.garcia@example.com,4172156228,Average,True,Sales,Texas,True,bob.garcia,@example.com
+1649,Frank Jones,40.0,Inactive,2021-01-09,118907.63,frank.jones@example.com,4938173597,Poor,False,Sales,California,True,frank.jones,@example.com
+1650,Eva Davis,40.0,Active,2020-04-20,86801.48,eva.davis@example.com,4884021556,Good,False,Admin,Illinois,True,eva.davis,@example.com
+1651,Alice Garcia,NA,Pending,2024-05-08,62236.03,alice.garcia@example.com,3257375533,Excellent,True,HR,Florida,True,alice.garcia,@example.com
+1652,Heidi Davis,35.0,Active,2023-10-12,64752.67,heidi.davis@example.com,4902166669,Poor,False,DevOps,Texas,True,heidi.davis,@example.com
+1653,Frank Jones,35.0,Active,2023-01-28,68399.43,frank.jones@example.com,8085096084,Excellent,False,Sales,California,True,frank.jones,@example.com
+1654,Frank Miller,35.0,Inactive,2021-03-07,79336.51,frank.miller@example.com,8749511917,Excellent,False,Admin,Florida,True,frank.miller,@example.com
+1655,Frank Jones,40.0,Active,2023-03-16,59179.74,frank.jones@example.com,1828197930,Excellent,False,HR,Florida,True,frank.jones,@example.com
+1656,David Davis,25.0,Active,2023-02-11,80255.31,david.davis@example.com,6477251294,Average,False,DevOps,California,True,david.davis,@example.com
+1657,Charlie Williams,30.0,Active,2022-05-13,84971.85,charlie.williams@example.com,7860694095,Average,False,Finance,Texas,True,charlie.williams,@example.com
+1658,Frank Brown,40.0,Pending,2024-10-24,89748.42,frank.brown@example.com,35624394,Good,False,HR,California,True,frank.brown,@example.com
+1659,Charlie Johnson,25.0,Inactive,2024-09-14,94090.35,charlie.johnson@example.com,8739592322,Good,False,Admin,California,True,charlie.johnson,@example.com
+1660,Frank Garcia,35.0,Pending,2023-02-15,115229.12,frank.garcia@example.com,4210890284,Poor,True,HR,California,True,frank.garcia,@example.com
+1661,Alice Williams,40.0,Pending,2023-05-25,63927.07,alice.williams@example.com,1553334263,Good,True,Cloud Tech,California,True,alice.williams,@example.com
+1662,Charlie Jones,35.0,Pending,2022-11-11,84124.56,charlie.jones@example.com,3350271606,Excellent,False,HR,California,True,charlie.jones,@example.com
+1663,Bob Miller,40.0,Inactive,2023-07-17,116961.61,bob.miller@example.com,3607763368,Excellent,True,Sales,California,True,bob.miller,@example.com
+1664,Frank Smith,40.0,Pending,2022-04-08,109423.05,frank.smith@example.com,1128981230,Average,False,DevOps,Illinois,True,frank.smith,@example.com
+1665,Charlie Jones,35.0,Inactive,2023-08-30,70394.94,charlie.jones@example.com,7955633184,Excellent,False,Admin,California,True,charlie.jones,@example.com
+1666,Grace Miller,35.0,Pending,2023-04-17,86465.5,grace.miller@example.com,7481700665,Poor,True,Finance,California,True,grace.miller,@example.com
+1667,Charlie Brown,30.0,Pending,2021-04-25,96341.58,charlie.brown@example.com,1554164315,Excellent,False,Cloud Tech,New York,True,charlie.brown,@example.com
+1668,Bob Jones,30.0,Active,2020-07-14,54465.47,bob.jones@example.com,7045023289,Excellent,False,Admin,Florida,True,bob.jones,@example.com
+1669,Alice Davis,25.0,Active,2020-07-31,68371.66,alice.davis@example.com,2822700933,Poor,False,Finance,Illinois,True,alice.davis,@example.com
+1670,Grace Smith,35.0,Pending,2021-08-04,81021.23,grace.smith@example.com,5962622821,Good,False,Admin,New York,True,grace.smith,@example.com
+1671,Charlie Miller,25.0,Inactive,2024-10-28,114069.07,charlie.miller@example.com,5120734653,Good,True,Cloud Tech,Nevada,True,charlie.miller,@example.com
+1672,Heidi Miller,NA,Inactive,2020-10-03,117867.96,heidi.miller@example.com,9500507025,Poor,False,HR,Illinois,True,heidi.miller,@example.com
+1673,Charlie Miller,NA,Pending,2024-03-13,94509.58,charlie.miller@example.com,869822104,Average,False,Sales,Florida,True,charlie.miller,@example.com
+1674,Eva Brown,35.0,Active,2024-07-06,56268.78,eva.brown@example.com,3161177686,Excellent,False,Finance,Illinois,True,eva.brown,@example.com
+1675,Grace Jones,35.0,Active,2020-01-01,86632.14,grace.jones@example.com,2904774257,Poor,True,Admin,California,True,grace.jones,@example.com
+1676,Charlie Brown,35.0,Pending,2020-01-18,98143.9,charlie.brown@example.com,5917793237,Excellent,False,HR,Florida,True,charlie.brown,@example.com
+1677,Heidi Garcia,35.0,Inactive,2023-05-07,85155.06,heidi.garcia@example.com,2231164912,Average,True,Cloud Tech,Florida,True,heidi.garcia,@example.com
+1678,Frank Johnson,30.0,Inactive,2022-03-19,67492.73,frank.johnson@example.com,3424579888,Excellent,True,Finance,Illinois,True,frank.johnson,@example.com
+1679,Grace Johnson,40.0,Active,2022-05-14,93772.61,grace.johnson@example.com,4256529059,Poor,False,Admin,California,True,grace.johnson,@example.com
+1680,Eva Garcia,35.0,Pending,2024-07-14,68817.54,eva.garcia@example.com,3202032649,Excellent,False,DevOps,Nevada,True,eva.garcia,@example.com
+1681,Bob Jones,30.0,Active,2023-07-28,81874.01,bob.jones@example.com,9775396736,Good,True,Admin,California,True,bob.jones,@example.com
+1682,Heidi Davis,30.0,Active,2020-04-11,117880.14,heidi.davis@example.com,9487148551,Average,False,HR,Texas,True,heidi.davis,@example.com
+1683,Bob Brown,35.0,Pending,2022-06-16,100897.49,bob.brown@example.com,4578715840,Average,True,HR,New York,True,bob.brown,@example.com
+1684,Charlie Smith,25.0,Inactive,2022-05-10,71810.37,charlie.smith@example.com,5608213710,Average,True,Finance,New York,True,charlie.smith,@example.com
+1685,Frank Miller,40.0,Inactive,2020-06-13,109048.24,frank.miller@example.com,8425476817,Poor,False,DevOps,Texas,True,frank.miller,@example.com
+1686,Alice Miller,35.0,Pending,2022-08-20,62712.26,alice.miller@example.com,2683230357,Average,False,Finance,Texas,True,alice.miller,@example.com
+1687,Eva Jones,40.0,Pending,2021-05-24,76935.85,eva.jones@example.com,9298808582,Good,True,Cloud Tech,Texas,True,eva.jones,@example.com
+1688,David Davis,25.0,Pending,2024-04-27,56577.22,david.davis@example.com,8252129327,Poor,True,Admin,Florida,True,david.davis,@example.com
+1689,David Johnson,40.0,Inactive,2021-10-23,61102.8,david.johnson@example.com,9634064685,Good,True,Finance,Nevada,True,david.johnson,@example.com
+1690,Bob Johnson,35.0,Inactive,2021-02-10,75229.87,bob.johnson@example.com,7752401483,Excellent,True,Finance,Nevada,True,bob.johnson,@example.com
+1691,David Miller,25.0,Inactive,2021-10-26,51054.74,david.miller@example.com,3991062271,Excellent,False,Admin,Nevada,True,david.miller,@example.com
+1692,Bob Jones,40.0,Active,2023-04-05,104843.27,bob.jones@example.com,3626693350,Excellent,False,Admin,Texas,True,bob.jones,@example.com
+1693,Charlie Brown,35.0,Active,2022-10-20,56398.11,charlie.brown@example.com,3426192371,Excellent,False,Cloud Tech,New York,True,charlie.brown,@example.com
+1694,Alice Johnson,25.0,Active,2023-12-07,87544.73,alice.johnson@example.com,4501848196,Good,False,HR,Nevada,True,alice.johnson,@example.com
+1695,Heidi Brown,30.0,Pending,2024-03-29,74312.24,heidi.brown@example.com,3741897214,Poor,False,HR,Illinois,True,heidi.brown,@example.com
+1696,David Davis,25.0,Inactive,2024-01-23,59431.25,david.davis@example.com,4064176926,Poor,True,DevOps,Florida,True,david.davis,@example.com
+1697,Heidi Johnson,40.0,Pending,2023-11-28,84306.44,heidi.johnson@example.com,4381199536,Average,False,Sales,California,True,heidi.johnson,@example.com
+1698,Frank Johnson,35.0,Inactive,2024-11-11,108194.47,frank.johnson@example.com,6601444855,Good,False,DevOps,Florida,True,frank.johnson,@example.com
+1699,Charlie Williams,25.0,Inactive,2021-08-28,107359.3,charlie.williams@example.com,4510173972,Excellent,False,Sales,New York,True,charlie.williams,@example.com
+1700,Heidi Johnson,25.0,Inactive,2024-02-11,85155.06,heidi.johnson@example.com,9641789968,Good,False,DevOps,Illinois,True,heidi.johnson,@example.com
+1701,Frank Garcia,NA,Pending,2020-05-09,96080.26,frank.garcia@example.com,8609191910,Average,False,Admin,California,True,frank.garcia,@example.com
+1702,Grace Smith,30.0,Inactive,2024-04-17,88602.75,grace.smith@example.com,3599660576,Average,True,Sales,Nevada,True,grace.smith,@example.com
+1703,Frank Garcia,40.0,Active,2020-07-16,86624.04,frank.garcia@example.com,9806603919,Good,True,DevOps,California,True,frank.garcia,@example.com
+1704,Charlie Jones,30.0,Active,2022-09-21,63413.16,charlie.jones@example.com,5146074554,Good,True,Cloud Tech,New York,True,charlie.jones,@example.com
+1705,Grace Jones,40.0,Pending,2023-04-23,67915.7,grace.jones@example.com,3470574237,Good,False,Sales,Illinois,True,grace.jones,@example.com
+1706,Bob Brown,25.0,Inactive,2024-12-27,108245.44,bob.brown@example.com,8565271558,Poor,True,Admin,Nevada,True,bob.brown,@example.com
+1707,Alice Garcia,35.0,Inactive,2024-08-10,75834.81,alice.garcia@example.com,8354116596,Excellent,True,Sales,Nevada,True,alice.garcia,@example.com
+1708,Eva Garcia,NA,Active,2024-09-04,71273.32,eva.garcia@example.com,2634755751,Good,False,Cloud Tech,Nevada,True,eva.garcia,@example.com
+1709,Bob Garcia,25.0,Pending,2022-02-28,63262.23,bob.garcia@example.com,2501394883,Good,False,DevOps,New York,True,bob.garcia,@example.com
+1710,David Davis,NA,Pending,2024-03-14,89069.91,david.davis@example.com,8826913118,Good,False,DevOps,New York,True,david.davis,@example.com
+1711,Frank Johnson,40.0,Inactive,2024-12-13,57287.17,frank.johnson@example.com,6425856260,Average,True,DevOps,Nevada,True,frank.johnson,@example.com
+1712,Grace Smith,NA,Active,2022-12-29,119890.35,grace.smith@example.com,4991537037,Average,True,HR,Nevada,True,grace.smith,@example.com
+1713,Frank Brown,35.0,Inactive,2022-04-24,103492.91,frank.brown@example.com,2407333372,Poor,False,Sales,California,True,frank.brown,@example.com
+1714,Frank Garcia,NA,Pending,2021-03-14,76254.42,frank.garcia@example.com,2043097767,Excellent,False,Admin,Illinois,True,frank.garcia,@example.com
+1715,Eva Garcia,35.0,Inactive,2020-01-01,100841.93,eva.garcia@example.com,8936289695,Poor,True,Finance,Florida,True,eva.garcia,@example.com
+1716,Alice Williams,NA,Active,2021-09-07,118907.61,alice.williams@example.com,4546553584,Excellent,True,Admin,California,True,alice.williams,@example.com
+1717,Frank Brown,25.0,Pending,2022-11-13,88942.62,frank.brown@example.com,1253892186,Average,False,DevOps,California,True,frank.brown,@example.com
+1718,Charlie Garcia,25.0,Inactive,2020-11-15,59688.57,charlie.garcia@example.com,8519358373,Average,False,Cloud Tech,Florida,True,charlie.garcia,@example.com
+1719,David Brown,30.0,Active,2023-03-14,77985.88,david.brown@example.com,9079779611,Average,True,HR,California,True,david.brown,@example.com
+1720,Bob Johnson,35.0,Inactive,2024-08-18,112931.69,bob.johnson@example.com,878057214,Poor,False,Finance,New York,True,bob.johnson,@example.com
+1721,Bob Williams,NA,Active,2024-02-05,106583.88,bob.williams@example.com,1494097625,Good,True,DevOps,California,True,bob.williams,@example.com
+1722,Alice Brown,35.0,Inactive,2024-11-12,58437.84,alice.brown@example.com,3748453985,Good,True,HR,Florida,True,alice.brown,@example.com
+1723,Alice Smith,40.0,Pending,2020-03-25,72352.16,alice.smith@example.com,2895090590,Average,True,Cloud Tech,California,True,alice.smith,@example.com
+1724,Frank Smith,NA,Active,2020-04-13,97154.47,frank.smith@example.com,1918623391,Good,True,DevOps,New York,True,frank.smith,@example.com
+1725,Heidi Jones,NA,Active,2021-03-30,80235.5,heidi.jones@example.com,2071511695,Good,False,Sales,Illinois,True,heidi.jones,@example.com
+1726,Charlie Williams,30.0,Inactive,2023-03-16,102172.05,charlie.williams@example.com,6672521451,Poor,False,HR,Texas,True,charlie.williams,@example.com
+1727,Eva Williams,25.0,Inactive,2024-05-03,98850.94,eva.williams@example.com,6471246334,Excellent,True,Finance,Illinois,True,eva.williams,@example.com
+1728,Heidi Jones,NA,Inactive,2023-08-28,89993.15,heidi.jones@example.com,1571840907,Average,True,Admin,Florida,True,heidi.jones,@example.com
+1729,David Brown,30.0,Inactive,2021-10-24,97931.66,david.brown@example.com,512080055,Average,True,Cloud Tech,California,True,david.brown,@example.com
+1730,Bob Williams,40.0,Inactive,2021-01-25,72451.69,bob.williams@example.com,4099512396,Poor,True,Finance,California,True,bob.williams,@example.com
+1731,Alice Smith,35.0,Pending,2024-08-09,119311.14,alice.smith@example.com,2835129591,Poor,True,Admin,California,True,alice.smith,@example.com
+1732,Charlie Smith,40.0,Active,2023-11-04,76167.46,charlie.smith@example.com,7282709080,Good,False,Cloud Tech,New York,True,charlie.smith,@example.com
+1733,Bob Garcia,25.0,Active,2023-06-25,114871.08,bob.garcia@example.com,4415298216,Average,False,DevOps,Texas,True,bob.garcia,@example.com
+1734,Eva Johnson,25.0,Active,2021-09-16,81504.31,eva.johnson@example.com,3929578670,Excellent,False,HR,Nevada,True,eva.johnson,@example.com
+1735,David Williams,NA,Pending,2022-12-07,102524.86,david.williams@example.com,8153523735,Poor,False,Admin,New York,True,david.williams,@example.com
+1736,Charlie Brown,25.0,Pending,2022-12-14,53043.74,charlie.brown@example.com,507918157,Excellent,True,Finance,Illinois,True,charlie.brown,@example.com
+1737,Eva Jones,30.0,Inactive,2020-04-18,82547.26,eva.jones@example.com,9988683451,Excellent,True,DevOps,Illinois,True,eva.jones,@example.com
+1738,Bob Jones,40.0,Pending,2024-10-11,113900.81,bob.jones@example.com,7346666169,Average,True,DevOps,California,True,bob.jones,@example.com
+1739,Bob Brown,25.0,Inactive,2021-04-18,118585.5,bob.brown@example.com,7158796473,Average,True,HR,Nevada,True,bob.brown,@example.com
+1740,Bob Davis,35.0,Pending,2020-06-29,63049.22,bob.davis@example.com,803149981,Poor,True,Finance,Illinois,True,bob.davis,@example.com
+1741,Heidi Miller,NA,Active,2021-05-21,114558.91,heidi.miller@example.com,5080046357,Average,False,DevOps,Texas,True,heidi.miller,@example.com
+1742,Heidi Johnson,40.0,Active,2021-12-11,97901.79,heidi.johnson@example.com,688285030,Average,True,DevOps,New York,True,heidi.johnson,@example.com
+1743,Eva Jones,30.0,Active,2023-07-05,68037.56,eva.jones@example.com,7235137398,Average,False,Sales,California,True,eva.jones,@example.com
+1744,Alice Williams,NA,Active,2021-11-30,112802.27,alice.williams@example.com,63140351,Excellent,False,HR,New York,True,alice.williams,@example.com
+1745,Bob Johnson,40.0,Pending,2024-11-22,93786.72,bob.johnson@example.com,6356022938,Poor,False,Sales,Nevada,True,bob.johnson,@example.com
+1746,David Williams,NA,Inactive,2023-05-24,73049.93,david.williams@example.com,4694346065,Good,False,Admin,Florida,True,david.williams,@example.com
+1747,David Davis,30.0,Pending,2024-06-26,64161.72,david.davis@example.com,6437490606,Excellent,True,Sales,Illinois,True,david.davis,@example.com
+1748,Charlie Smith,40.0,Pending,2020-11-19,72224.73,charlie.smith@example.com,2311127127,Average,False,Admin,Nevada,True,charlie.smith,@example.com
+1749,Bob Johnson,30.0,Pending,2020-03-01,103580.45,bob.johnson@example.com,5246484493,Excellent,False,HR,New York,True,bob.johnson,@example.com
+1750,Grace Garcia,40.0,Pending,2024-08-09,112589.11,grace.garcia@example.com,1163187327,Average,False,HR,Florida,True,grace.garcia,@example.com
+1751,Eva Jones,30.0,Active,2021-01-13,51833.88,eva.jones@example.com,771130620,Average,True,Admin,Texas,True,eva.jones,@example.com
+1752,Eva Johnson,NA,Active,2023-05-06,66252.78,eva.johnson@example.com,1369572789,Excellent,True,Sales,Illinois,True,eva.johnson,@example.com
+1753,Frank Johnson,25.0,Active,2022-10-25,109229.68,frank.johnson@example.com,8335090253,Poor,True,DevOps,Florida,True,frank.johnson,@example.com
+1754,Frank Johnson,30.0,Inactive,2020-10-08,61465.05,frank.johnson@example.com,2573066247,Average,False,Finance,Florida,True,frank.johnson,@example.com
+1755,Grace Miller,25.0,Active,2024-02-29,96993.74,grace.miller@example.com,1323570712,Poor,False,HR,Florida,True,grace.miller,@example.com
+1756,David Johnson,25.0,Pending,2022-09-30,98150.39,david.johnson@example.com,9848228500,Good,True,Admin,Florida,True,david.johnson,@example.com
+1757,David Williams,40.0,Pending,2024-02-14,107703.0,david.williams@example.com,1688092549,Average,False,Finance,Texas,True,david.williams,@example.com
+1758,Grace Smith,NA,Pending,2023-01-03,86766.14,grace.smith@example.com,2130609068,Poor,True,DevOps,Illinois,True,grace.smith,@example.com
+1759,Alice Davis,NA,Inactive,2024-08-20,111443.69,alice.davis@example.com,1309810795,Poor,True,Cloud Tech,Florida,True,alice.davis,@example.com
+1760,David Brown,NA,Pending,2020-03-21,89039.07,david.brown@example.com,4967379456,Good,False,Sales,Florida,True,david.brown,@example.com
+1761,Alice Johnson,30.0,Inactive,2024-12-16,71318.79,alice.johnson@example.com,7278532425,Poor,False,HR,Florida,True,alice.johnson,@example.com
+1762,Heidi Jones,30.0,Pending,2020-04-21,98296.71,heidi.jones@example.com,4250642075,Poor,False,Finance,California,True,heidi.jones,@example.com
+1763,Heidi Johnson,40.0,Pending,2020-08-19,62584.0,heidi.johnson@example.com,8362536666,Good,False,Cloud Tech,Nevada,True,heidi.johnson,@example.com
+1764,Charlie Jones,40.0,Inactive,2020-02-21,62521.5,charlie.jones@example.com,7767555627,Average,True,Finance,California,True,charlie.jones,@example.com
+1765,David Williams,40.0,Inactive,2023-11-17,95400.35,david.williams@example.com,3333939577,Poor,True,Cloud Tech,California,True,david.williams,@example.com
+1766,Charlie Jones,25.0,Pending,2022-07-09,94385.07,charlie.jones@example.com,6543627186,Poor,True,Cloud Tech,Texas,True,charlie.jones,@example.com
+1767,Grace Garcia,NA,Inactive,2023-02-01,76642.49,grace.garcia@example.com,4960335825,Poor,True,Sales,New York,True,grace.garcia,@example.com
+1768,Frank Brown,NA,Active,2024-11-14,60122.52,frank.brown@example.com,8627036923,Excellent,True,DevOps,New York,True,frank.brown,@example.com
+1769,Alice Smith,40.0,Pending,2024-04-23,117267.63,alice.smith@example.com,9269326572,Good,False,HR,California,True,alice.smith,@example.com
+1770,Charlie Jones,25.0,Active,2023-06-29,85155.06,charlie.jones@example.com,2759980110,Excellent,True,Admin,New York,True,charlie.jones,@example.com
+1771,Heidi Jones,40.0,Pending,2024-12-12,84542.68,heidi.jones@example.com,5155322,Good,True,Sales,Texas,True,heidi.jones,@example.com
+1772,Heidi Smith,40.0,Active,2023-05-16,92007.15,heidi.smith@example.com,4159597751,Average,True,Finance,Florida,True,heidi.smith,@example.com
+1773,Eva Brown,NA,Active,2020-04-10,62938.8,eva.brown@example.com,4418222617,Average,False,DevOps,Illinois,True,eva.brown,@example.com
+1774,Frank Johnson,25.0,Pending,2023-03-29,108661.01,frank.johnson@example.com,9628874311,Poor,False,Admin,Texas,True,frank.johnson,@example.com
+1775,Bob Jones,25.0,Active,2020-11-26,97046.33,bob.jones@example.com,7102676719,Good,False,Cloud Tech,Florida,True,bob.jones,@example.com
+1776,Charlie Smith,40.0,Inactive,2020-03-14,56518.84,charlie.smith@example.com,9579927078,Average,False,DevOps,Illinois,True,charlie.smith,@example.com
+1777,Frank Garcia,40.0,Pending,2020-05-12,70498.29,frank.garcia@example.com,5515122945,Good,True,Cloud Tech,Florida,True,frank.garcia,@example.com
+1778,Eva Garcia,35.0,Pending,2021-03-05,98708.06,eva.garcia@example.com,2135415969,Average,True,Sales,Florida,True,eva.garcia,@example.com
+1779,Bob Williams,NA,Pending,2020-06-28,83856.41,bob.williams@example.com,9962543847,Excellent,False,DevOps,Nevada,True,bob.williams,@example.com
+1780,Eva Smith,40.0,Inactive,2022-12-12,90259.99,eva.smith@example.com,752034475,Average,False,Sales,California,True,eva.smith,@example.com
+1781,Charlie Williams,NA,Pending,2024-02-02,94230.03,charlie.williams@example.com,5047158028,Excellent,True,Sales,Florida,True,charlie.williams,@example.com
+1782,Charlie Garcia,NA,Inactive,2021-01-31,50110.66,charlie.garcia@example.com,904637659,Average,True,Admin,Nevada,True,charlie.garcia,@example.com
+1783,Bob Brown,30.0,Inactive,2020-04-03,73365.46,bob.brown@example.com,4655866524,Poor,False,Sales,Florida,True,bob.brown,@example.com
+1784,David Johnson,25.0,Pending,2021-07-30,67809.23,david.johnson@example.com,4837441714,Excellent,False,DevOps,New York,True,david.johnson,@example.com
+1785,Eva Smith,NA,Active,2020-08-21,98008.51,eva.smith@example.com,8102131250,Average,False,Sales,California,True,eva.smith,@example.com
+1786,Alice Davis,30.0,Inactive,2023-10-09,83537.58,alice.davis@example.com,2931100590,Poor,False,Admin,California,True,alice.davis,@example.com
+1787,Alice Garcia,30.0,Pending,2022-08-01,112444.08,alice.garcia@example.com,2975191022,Excellent,True,Finance,New York,True,alice.garcia,@example.com
+1788,Frank Garcia,40.0,Active,2024-09-06,86475.13,frank.garcia@example.com,1211063300,Poor,True,Finance,Nevada,True,frank.garcia,@example.com
+1789,Frank Davis,NA,Active,2023-03-28,97984.53,frank.davis@example.com,6583737926,Good,True,Sales,Texas,True,frank.davis,@example.com
+1790,Frank Miller,25.0,Active,2021-11-25,118853.31,frank.miller@example.com,4907280122,Good,False,Admin,California,True,frank.miller,@example.com
+1791,Charlie Garcia,NA,Active,2023-05-03,58179.12,charlie.garcia@example.com,4289311324,Excellent,False,Sales,Florida,True,charlie.garcia,@example.com
+1792,Eva Jones,35.0,Inactive,2022-04-27,56075.84,eva.jones@example.com,3269496842,Average,True,DevOps,Texas,True,eva.jones,@example.com
+1793,Frank Brown,40.0,Pending,2021-09-11,62250.89,frank.brown@example.com,6453804420,Excellent,True,HR,New York,True,frank.brown,@example.com
+1794,Alice Smith,30.0,Pending,2020-02-21,105931.77,alice.smith@example.com,175096169,Poor,True,Cloud Tech,Florida,True,alice.smith,@example.com
+1795,Charlie Davis,30.0,Pending,2024-11-24,86653.96,charlie.davis@example.com,1595919456,Average,True,HR,Florida,True,charlie.davis,@example.com
+1796,Charlie Jones,25.0,Active,2021-02-24,100719.94,charlie.jones@example.com,5757475832,Good,False,Sales,Nevada,True,charlie.jones,@example.com
+1797,Bob Davis,25.0,Pending,2024-10-02,91600.13,bob.davis@example.com,9205677566,Average,True,HR,Texas,True,bob.davis,@example.com
+1798,Heidi Smith,25.0,Pending,2024-03-06,71873.66,heidi.smith@example.com,7722660255,Good,True,Cloud Tech,Illinois,True,heidi.smith,@example.com
+1799,Eva Williams,30.0,Active,2021-08-09,69365.47,eva.williams@example.com,2650622922,Average,True,HR,New York,True,eva.williams,@example.com
+1800,Heidi Smith,25.0,Active,2021-07-14,58012.23,heidi.smith@example.com,1067245306,Average,True,HR,New York,True,heidi.smith,@example.com
+1801,Bob Miller,30.0,Pending,2021-10-14,68973.65,bob.miller@example.com,6248433796,Average,True,Sales,California,True,bob.miller,@example.com
+1802,Eva Smith,NA,Active,2021-09-29,92928.4,eva.smith@example.com,6627051156,Poor,True,Admin,New York,True,eva.smith,@example.com
+1803,Heidi Smith,25.0,Inactive,2023-10-15,53531.92,heidi.smith@example.com,9423873669,Poor,True,Admin,Texas,True,heidi.smith,@example.com
+1804,Bob Miller,40.0,Pending,2023-05-05,112389.31,bob.miller@example.com,4254969191,Excellent,False,Finance,New York,True,bob.miller,@example.com
+1805,Heidi Brown,NA,Inactive,2024-08-01,63870.3,heidi.brown@example.com,8455259709,Excellent,False,HR,California,True,heidi.brown,@example.com
+1806,Bob Garcia,40.0,Active,2024-07-22,106164.53,bob.garcia@example.com,7563353573,Good,False,Sales,New York,True,bob.garcia,@example.com
+1807,Bob Smith,40.0,Pending,2023-12-25,103654.54,bob.smith@example.com,8595325938,Poor,False,HR,Nevada,True,bob.smith,@example.com
+1808,David Miller,30.0,Inactive,2022-03-13,62834.72,david.miller@example.com,9337970580,Good,True,Sales,California,True,david.miller,@example.com
+1809,Frank Jones,35.0,Active,2020-05-13,83273.41,frank.jones@example.com,6295187793,Excellent,False,Finance,Florida,True,frank.jones,@example.com
+1810,Heidi Williams,30.0,Pending,2023-03-22,58917.58,heidi.williams@example.com,1763425072,Good,False,HR,California,True,heidi.williams,@example.com
+1811,Bob Williams,35.0,Active,2024-06-10,71148.27,bob.williams@example.com,3055978244,Excellent,True,Sales,Nevada,True,bob.williams,@example.com
+1812,Grace Smith,30.0,Pending,2020-11-21,118172.42,grace.smith@example.com,7598339913,Poor,True,Sales,New York,True,grace.smith,@example.com
+1813,Frank Brown,30.0,Inactive,2024-05-25,118614.37,frank.brown@example.com,388436603,Average,False,DevOps,Illinois,True,frank.brown,@example.com
+1814,Frank Brown,NA,Active,2023-09-19,96872.36,frank.brown@example.com,4324006156,Poor,False,DevOps,New York,True,frank.brown,@example.com
+1815,Heidi Jones,25.0,Inactive,2021-10-28,88856.14,heidi.jones@example.com,2768297513,Good,True,Sales,Illinois,True,heidi.jones,@example.com
+1816,Charlie Smith,35.0,Pending,2020-08-10,97985.61,charlie.smith@example.com,7439742924,Good,False,Finance,Texas,True,charlie.smith,@example.com
+1817,Grace Williams,35.0,Pending,2020-05-05,56337.31,grace.williams@example.com,105875255,Poor,True,Finance,Nevada,True,grace.williams,@example.com
+1818,Alice Brown,30.0,Inactive,2022-12-24,70405.23,alice.brown@example.com,8065625903,Poor,True,DevOps,New York,True,alice.brown,@example.com
+1819,Heidi Smith,30.0,Inactive,2021-09-05,89919.35,heidi.smith@example.com,5990802710,Excellent,True,Admin,Nevada,True,heidi.smith,@example.com
+1820,Eva Davis,40.0,Active,2023-04-08,50568.35,eva.davis@example.com,2218231554,Good,True,DevOps,California,True,eva.davis,@example.com
+1821,Grace Brown,30.0,Inactive,2023-01-29,85155.06,grace.brown@example.com,1651768085,Good,False,HR,Texas,True,grace.brown,@example.com
+1822,Frank Miller,25.0,Active,2022-06-03,99155.53,frank.miller@example.com,6281372142,Poor,True,HR,Texas,True,frank.miller,@example.com
+1823,Frank Davis,40.0,Inactive,2023-01-21,64785.13,frank.davis@example.com,3080037002,Average,True,Finance,Florida,True,frank.davis,@example.com
+1824,Charlie Garcia,30.0,Inactive,2024-09-16,79206.48,charlie.garcia@example.com,3228556607,Good,False,Sales,Florida,True,charlie.garcia,@example.com
+1825,Charlie Brown,30.0,Pending,2020-02-02,60079.71,charlie.brown@example.com,4706810389,Average,True,Cloud Tech,Texas,True,charlie.brown,@example.com
+1826,Grace Williams,30.0,Pending,2024-07-08,79109.88,grace.williams@example.com,3397051957,Poor,False,Cloud Tech,New York,True,grace.williams,@example.com
+1827,Grace Johnson,NA,Pending,2022-05-18,88643.5,grace.johnson@example.com,2632809447,Poor,False,Admin,Florida,True,grace.johnson,@example.com
+1828,Frank Davis,30.0,Pending,2020-01-16,90455.7,frank.davis@example.com,5862394534,Excellent,False,Admin,Florida,True,frank.davis,@example.com
+1829,David Garcia,NA,Pending,2023-03-26,75687.9,david.garcia@example.com,4614707985,Good,True,HR,Florida,True,david.garcia,@example.com
+1830,Heidi Jones,35.0,Inactive,2023-11-15,55604.42,heidi.jones@example.com,3210613393,Average,False,Cloud Tech,Illinois,True,heidi.jones,@example.com
+1831,Eva Jones,40.0,Pending,2024-12-27,92704.94,eva.jones@example.com,3945703942,Excellent,False,Sales,Texas,True,eva.jones,@example.com
+1832,Bob Williams,NA,Pending,2020-04-18,113250.97,bob.williams@example.com,8040325375,Good,True,Sales,California,True,bob.williams,@example.com
+1833,Alice Brown,40.0,Inactive,2023-03-21,101367.02,alice.brown@example.com,5769277893,Excellent,False,Finance,Illinois,True,alice.brown,@example.com
+1834,Eva Smith,35.0,Pending,2023-05-08,102459.77,eva.smith@example.com,3191009003,Poor,False,Admin,Texas,True,eva.smith,@example.com
+1835,Eva Brown,25.0,Pending,2020-12-12,90100.2,eva.brown@example.com,476921052,Good,False,DevOps,Florida,True,eva.brown,@example.com
+1836,Eva Williams,NA,Inactive,2020-06-17,58877.49,eva.williams@example.com,3651460400,Excellent,False,Cloud Tech,California,True,eva.williams,@example.com
+1837,Eva Jones,35.0,Inactive,2021-07-17,85155.06,eva.jones@example.com,4247310719,Excellent,False,Admin,Illinois,True,eva.jones,@example.com
+1838,Bob Brown,NA,Pending,2020-11-05,96140.89,bob.brown@example.com,1137984408,Average,True,Admin,Illinois,True,bob.brown,@example.com
+1839,Charlie Jones,35.0,Inactive,2021-01-05,105956.04,charlie.jones@example.com,7123166006,Excellent,False,DevOps,New York,True,charlie.jones,@example.com
+1840,Frank Davis,25.0,Active,2024-09-11,84716.38,frank.davis@example.com,6762090143,Good,False,Admin,Illinois,True,frank.davis,@example.com
+1841,Grace Garcia,30.0,Pending,2023-07-29,61709.83,grace.garcia@example.com,7340433699,Good,True,DevOps,Florida,True,grace.garcia,@example.com
+1842,Frank Smith,25.0,Active,2020-04-17,61732.03,frank.smith@example.com,9687304518,Average,True,DevOps,California,True,frank.smith,@example.com
+1843,Eva Davis,40.0,Active,2022-02-16,97845.7,eva.davis@example.com,5778255881,Good,True,DevOps,Illinois,True,eva.davis,@example.com
+1844,Eva Jones,30.0,Active,2021-08-14,114905.58,eva.jones@example.com,5562965753,Poor,False,Sales,Florida,True,eva.jones,@example.com
+1845,Frank Jones,NA,Active,2022-12-24,94619.69,frank.jones@example.com,2786561941,Good,True,DevOps,Texas,True,frank.jones,@example.com
+1846,Grace Johnson,NA,Inactive,2021-07-07,68696.15,grace.johnson@example.com,5577820581,Good,False,DevOps,California,True,grace.johnson,@example.com
+1847,Grace Johnson,40.0,Active,2024-02-12,97032.29,grace.johnson@example.com,9582923615,Excellent,False,DevOps,Nevada,True,grace.johnson,@example.com
+1848,Frank Davis,30.0,Active,2023-10-09,50593.33,frank.davis@example.com,1880819047,Excellent,True,HR,Illinois,True,frank.davis,@example.com
+1849,Grace Miller,25.0,Pending,2022-07-02,74606.15,grace.miller@example.com,2357155867,Good,True,Sales,Texas,True,grace.miller,@example.com
+1850,Eva Davis,30.0,Pending,2020-07-07,53981.73,eva.davis@example.com,6395613722,Average,False,Cloud Tech,Texas,True,eva.davis,@example.com
+1851,David Johnson,NA,Pending,2020-09-02,56047.05,david.johnson@example.com,817214363,Excellent,True,DevOps,Texas,True,david.johnson,@example.com
+1852,Grace Jones,NA,Pending,2021-01-12,67733.5,grace.jones@example.com,3813000412,Average,False,Admin,Texas,True,grace.jones,@example.com
+1853,Bob Williams,40.0,Pending,2023-09-29,103891.64,bob.williams@example.com,2114716559,Good,True,HR,Florida,True,bob.williams,@example.com
+1854,Charlie Davis,25.0,Inactive,2022-03-06,73285.83,charlie.davis@example.com,9456534698,Good,True,HR,Texas,True,charlie.davis,@example.com
+1855,Eva Jones,30.0,Inactive,2021-02-14,92721.13,eva.jones@example.com,7990707549,Poor,True,Finance,Texas,True,eva.jones,@example.com
+1856,Heidi Williams,25.0,Inactive,2021-03-23,92977.64,heidi.williams@example.com,4768169956,Excellent,False,Admin,Illinois,True,heidi.williams,@example.com
+1857,Heidi Williams,35.0,Active,2020-05-24,89994.12,heidi.williams@example.com,607174810,Good,True,Cloud Tech,Texas,True,heidi.williams,@example.com
+1858,Heidi Johnson,25.0,Pending,2023-08-04,50060.73,heidi.johnson@example.com,3176539704,Poor,False,Finance,New York,True,heidi.johnson,@example.com
+1859,Grace Davis,35.0,Inactive,2022-03-12,90224.82,grace.davis@example.com,4873961028,Excellent,False,Admin,Nevada,True,grace.davis,@example.com
+1860,Heidi Brown,40.0,Pending,2024-05-18,106859.3,heidi.brown@example.com,871827495,Good,False,Finance,Florida,True,heidi.brown,@example.com
+1861,David Smith,25.0,Inactive,2020-09-05,89707.07,david.smith@example.com,8049187273,Good,False,Finance,Nevada,True,david.smith,@example.com
+1862,Frank Johnson,35.0,Inactive,2020-04-23,94259.08,frank.johnson@example.com,2049561212,Excellent,True,DevOps,California,True,frank.johnson,@example.com
+1863,Bob Johnson,35.0,Active,2024-09-18,82174.75,bob.johnson@example.com,7730626041,Excellent,False,Sales,California,True,bob.johnson,@example.com
+1864,David Brown,30.0,Inactive,2023-09-15,63370.22,david.brown@example.com,3597371121,Excellent,False,Sales,Texas,True,david.brown,@example.com
+1865,Bob Smith,35.0,Pending,2022-06-15,101472.69,bob.smith@example.com,2990775607,Good,True,Finance,Texas,True,bob.smith,@example.com
+1866,David Jones,25.0,Active,2022-09-28,77213.73,david.jones@example.com,5816704685,Good,False,DevOps,Illinois,True,david.jones,@example.com
+1867,Eva Miller,40.0,Active,2020-03-16,73749.96,eva.miller@example.com,1114576831,Poor,True,Sales,Florida,True,eva.miller,@example.com
+1868,Alice Davis,40.0,Pending,2023-09-28,86618.37,alice.davis@example.com,1021923784,Average,False,Cloud Tech,New York,True,alice.davis,@example.com
+1869,Charlie Miller,NA,Active,2024-02-15,59911.33,charlie.miller@example.com,8471296179,Excellent,True,Admin,Texas,True,charlie.miller,@example.com
+1870,Heidi Jones,NA,Pending,2023-08-21,59137.64,heidi.jones@example.com,3324260507,Good,False,Cloud Tech,New York,True,heidi.jones,@example.com
+1871,Alice Garcia,35.0,Pending,2020-12-15,108474.65,alice.garcia@example.com,184980424,Good,True,Cloud Tech,Florida,True,alice.garcia,@example.com
+1872,Bob Johnson,25.0,Pending,2021-03-27,54417.71,bob.johnson@example.com,3733777311,Excellent,False,Finance,Illinois,True,bob.johnson,@example.com
+1873,Frank Smith,40.0,Pending,2023-03-25,88211.94,frank.smith@example.com,6881228216,Average,False,HR,Texas,True,frank.smith,@example.com
+1874,David Johnson,25.0,Inactive,2020-05-09,58452.18,david.johnson@example.com,8192365345,Excellent,True,Sales,New York,True,david.johnson,@example.com
+1875,Grace Williams,30.0,Pending,2020-12-03,80706.28,grace.williams@example.com,605603566,Average,True,DevOps,California,True,grace.williams,@example.com
+1876,Alice Johnson,30.0,Pending,2022-02-09,85155.06,alice.johnson@example.com,9327986238,Good,True,Cloud Tech,Nevada,True,alice.johnson,@example.com
+1877,Heidi Johnson,25.0,Active,2020-07-01,99471.89,heidi.johnson@example.com,8471690617,Average,True,Cloud Tech,Texas,True,heidi.johnson,@example.com
+1878,Eva Jones,40.0,Pending,2020-09-16,64431.22,eva.jones@example.com,1205464753,Poor,False,DevOps,Florida,True,eva.jones,@example.com
+1879,Heidi Jones,40.0,Pending,2023-11-17,52633.48,heidi.jones@example.com,8954787697,Good,False,Admin,New York,True,heidi.jones,@example.com
+1880,Heidi Jones,NA,Inactive,2021-12-13,79315.01,heidi.jones@example.com,9992751757,Poor,True,Cloud Tech,Nevada,True,heidi.jones,@example.com
+1881,David Miller,25.0,Pending,2022-01-11,110391.17,david.miller@example.com,8914444982,Excellent,False,Sales,Texas,True,david.miller,@example.com
+1882,David Williams,40.0,Active,2021-07-20,53714.83,david.williams@example.com,5539354357,Excellent,True,DevOps,Nevada,True,david.williams,@example.com
+1883,Charlie Garcia,40.0,Active,2023-10-04,114587.11,charlie.garcia@example.com,6449639242,Excellent,True,Finance,New York,True,charlie.garcia,@example.com
+1884,Frank Garcia,35.0,Inactive,2021-11-15,93177.35,frank.garcia@example.com,5885379820,Average,False,Admin,Florida,True,frank.garcia,@example.com
+1885,Heidi Jones,25.0,Active,2023-01-05,62312.13,heidi.jones@example.com,4339527535,Good,False,Cloud Tech,Nevada,True,heidi.jones,@example.com
+1886,Heidi Smith,NA,Active,2024-01-17,81137.46,heidi.smith@example.com,7497852490,Excellent,False,Cloud Tech,Texas,True,heidi.smith,@example.com
+1887,Grace Miller,30.0,Inactive,2021-04-16,104528.27,grace.miller@example.com,4168601346,Excellent,False,DevOps,Nevada,True,grace.miller,@example.com
+1888,Bob Brown,30.0,Active,2022-02-08,112395.56,bob.brown@example.com,7894896339,Good,False,DevOps,Florida,True,bob.brown,@example.com
+1889,Heidi Smith,25.0,Active,2023-06-02,81849.36,heidi.smith@example.com,6791766511,Excellent,False,Finance,New York,True,heidi.smith,@example.com
+1890,Charlie Davis,40.0,Pending,2022-01-04,118288.91,charlie.davis@example.com,2150014187,Poor,False,DevOps,New York,True,charlie.davis,@example.com
+1891,Charlie Davis,25.0,Active,2021-07-28,59555.1,charlie.davis@example.com,4216309000,Good,True,DevOps,Illinois,True,charlie.davis,@example.com
+1892,Heidi Smith,40.0,Active,2024-12-20,70661.31,heidi.smith@example.com,5944633398,Good,True,Admin,California,True,heidi.smith,@example.com
+1893,Charlie Jones,NA,Active,2022-04-23,109988.16,charlie.jones@example.com,9485320894,Good,True,Sales,New York,True,charlie.jones,@example.com
+1894,David Brown,NA,Inactive,2020-01-30,101101.24,david.brown@example.com,3263890218,Poor,True,Finance,Florida,True,david.brown,@example.com
+1895,David Brown,30.0,Pending,2021-03-31,112427.58,david.brown@example.com,9471136336,Good,True,HR,Florida,True,david.brown,@example.com
+1896,Charlie Miller,NA,Active,2020-03-23,119389.15,charlie.miller@example.com,9223410345,Poor,False,Cloud Tech,Florida,True,charlie.miller,@example.com
+1897,Alice Brown,40.0,Inactive,2024-07-16,105861.23,alice.brown@example.com,9967331166,Good,True,Sales,Florida,True,alice.brown,@example.com
+1898,Heidi Davis,40.0,Pending,2024-03-22,50869.61,heidi.davis@example.com,7269608436,Average,True,Admin,Texas,True,heidi.davis,@example.com
+1899,David Williams,30.0,Active,2023-08-19,85155.06,david.williams@example.com,6855078966,Excellent,True,HR,California,True,david.williams,@example.com
+1900,Eva Jones,30.0,Pending,2024-03-10,90856.21,eva.jones@example.com,9352196262,Average,True,DevOps,Florida,True,eva.jones,@example.com
+1901,Heidi Brown,30.0,Active,2024-06-05,111008.63,heidi.brown@example.com,3556434368,Excellent,True,DevOps,Florida,True,heidi.brown,@example.com
+1902,Alice Miller,25.0,Inactive,2022-12-23,52289.99,alice.miller@example.com,7093170694,Poor,True,Finance,Nevada,True,alice.miller,@example.com
+1903,Eva Davis,NA,Active,2024-06-01,97926.56,eva.davis@example.com,5607676163,Average,True,Sales,Illinois,True,eva.davis,@example.com
+1904,Frank Williams,25.0,Inactive,2024-12-23,53609.38,frank.williams@example.com,5345472238,Good,False,Sales,Nevada,True,frank.williams,@example.com
+1905,Heidi Johnson,NA,Inactive,2020-12-24,95372.09,heidi.johnson@example.com,8983065030,Excellent,False,Cloud Tech,California,True,heidi.johnson,@example.com
+1906,David Johnson,30.0,Pending,2020-08-20,95432.69,david.johnson@example.com,2198041846,Excellent,True,HR,New York,True,david.johnson,@example.com
+1907,David Williams,30.0,Inactive,2022-10-28,97615.87,david.williams@example.com,2426423641,Average,False,HR,California,True,david.williams,@example.com
+1908,Bob Davis,35.0,Inactive,2022-10-23,86867.78,bob.davis@example.com,8131909247,Poor,False,HR,Florida,True,bob.davis,@example.com
+1909,Eva Miller,40.0,Pending,2023-11-20,106615.71,eva.miller@example.com,7623039110,Average,False,Sales,California,True,eva.miller,@example.com
+1910,Bob Williams,30.0,Active,2022-03-11,112856.21,bob.williams@example.com,4281785227,Poor,False,Finance,Texas,True,bob.williams,@example.com
+1911,Bob Jones,25.0,Active,2023-11-28,60356.78,bob.jones@example.com,2305248087,Poor,True,Admin,California,True,bob.jones,@example.com
+1912,David Jones,NA,Inactive,2022-05-03,117870.22,david.jones@example.com,622072238,Excellent,False,DevOps,Texas,True,david.jones,@example.com
+1913,Charlie Johnson,40.0,Inactive,2024-02-19,95127.91,charlie.johnson@example.com,5947372131,Average,False,HR,Florida,True,charlie.johnson,@example.com
+1914,Bob Brown,25.0,Pending,2021-11-18,78818.42,bob.brown@example.com,9016204786,Average,False,Admin,Illinois,True,bob.brown,@example.com
+1915,Frank Miller,40.0,Pending,2022-12-21,108933.55,frank.miller@example.com,6886878598,Poor,True,Sales,Nevada,True,frank.miller,@example.com
+1916,Eva Johnson,NA,Active,2024-06-04,68200.52,eva.johnson@example.com,6486287202,Average,True,Admin,California,True,eva.johnson,@example.com
+1917,Eva Brown,25.0,Inactive,2022-07-22,116934.97,eva.brown@example.com,1954196663,Good,True,Admin,California,True,eva.brown,@example.com
+1918,Charlie Brown,NA,Active,2024-09-14,99567.78,charlie.brown@example.com,5057303626,Good,True,HR,New York,True,charlie.brown,@example.com
+1919,Charlie Garcia,30.0,Active,2021-10-10,90216.76,charlie.garcia@example.com,9246320373,Average,True,Admin,Texas,True,charlie.garcia,@example.com
+1920,Frank Jones,30.0,Pending,2020-03-12,96588.73,frank.jones@example.com,7677537259,Average,True,Admin,Illinois,True,frank.jones,@example.com
+1921,Charlie Davis,35.0,Active,2022-12-28,71109.18,charlie.davis@example.com,3214505765,Poor,True,Finance,Illinois,True,charlie.davis,@example.com
+1922,Grace Smith,40.0,Inactive,2020-11-15,50300.6,grace.smith@example.com,1945887070,Good,False,Admin,Florida,True,grace.smith,@example.com
+1923,Frank Davis,35.0,Pending,2023-09-27,60295.84,frank.davis@example.com,5534820127,Good,False,Finance,California,True,frank.davis,@example.com
+1924,Heidi Smith,35.0,Pending,2022-09-07,113012.21,heidi.smith@example.com,4008385075,Excellent,False,DevOps,Texas,True,heidi.smith,@example.com
+1925,Bob Williams,35.0,Pending,2024-09-18,65425.54,bob.williams@example.com,5975954507,Poor,True,Cloud Tech,Florida,True,bob.williams,@example.com
+1926,Frank Jones,25.0,Active,2023-04-09,86850.37,frank.jones@example.com,9177680897,Excellent,True,Sales,Nevada,True,frank.jones,@example.com
+1927,Eva Brown,30.0,Pending,2024-10-05,81182.07,eva.brown@example.com,1265742230,Good,True,Cloud Tech,Texas,True,eva.brown,@example.com
+1928,Bob Miller,NA,Inactive,2021-10-12,92222.03,bob.miller@example.com,9646300401,Poor,True,Finance,New York,True,bob.miller,@example.com
+1929,Alice Smith,35.0,Pending,2024-10-14,79934.83,alice.smith@example.com,3693626893,Average,True,Finance,New York,True,alice.smith,@example.com
+1930,Alice Davis,35.0,Inactive,2022-07-01,111201.12,alice.davis@example.com,3012047136,Poor,False,HR,California,True,alice.davis,@example.com
+1931,Heidi Brown,40.0,Active,2024-07-08,100960.05,heidi.brown@example.com,2711759573,Average,False,Finance,California,True,heidi.brown,@example.com
+1932,Grace Smith,30.0,Active,2020-10-21,64544.87,grace.smith@example.com,9885582983,Average,True,Sales,Illinois,True,grace.smith,@example.com
+1933,Frank Smith,25.0,Active,2020-01-14,78662.24,frank.smith@example.com,9330674583,Poor,True,Sales,Florida,True,frank.smith,@example.com
+1934,Grace Garcia,30.0,Pending,2023-03-09,102867.06,grace.garcia@example.com,7609441282,Average,True,Sales,Florida,True,grace.garcia,@example.com
+1935,Charlie Smith,40.0,Inactive,2020-03-27,107595.95,charlie.smith@example.com,3372188565,Excellent,True,HR,Illinois,True,charlie.smith,@example.com
+1936,Eva Miller,40.0,Inactive,2021-04-04,85155.06,eva.miller@example.com,6954132970,Good,False,Sales,Nevada,True,eva.miller,@example.com
+1937,Eva Jones,35.0,Inactive,2020-09-11,95766.91,eva.jones@example.com,5066626704,Average,True,DevOps,Nevada,True,eva.jones,@example.com
+1938,Grace Miller,30.0,Pending,2021-05-16,51990.98,grace.miller@example.com,5143776935,Excellent,True,Finance,Nevada,True,grace.miller,@example.com
+1939,Heidi Johnson,25.0,Inactive,2023-04-05,83634.01,heidi.johnson@example.com,6343925294,Average,True,Sales,Nevada,True,heidi.johnson,@example.com
+1940,Eva Brown,40.0,Inactive,2022-11-15,85155.06,eva.brown@example.com,9611110285,Good,True,DevOps,Texas,True,eva.brown,@example.com
+1941,Eva Jones,30.0,Active,2021-10-16,82273.08,eva.jones@example.com,7120072023,Excellent,False,Sales,Texas,True,eva.jones,@example.com
+1942,Frank Garcia,30.0,Inactive,2022-05-09,94537.3,frank.garcia@example.com,5591024509,Good,True,Cloud Tech,California,True,frank.garcia,@example.com
+1943,Alice Jones,35.0,Pending,2020-06-06,85970.65,alice.jones@example.com,9109032670,Good,True,HR,Illinois,True,alice.jones,@example.com
+1944,Charlie Jones,25.0,Pending,2021-10-22,111071.02,charlie.jones@example.com,4949819420,Excellent,False,Sales,New York,True,charlie.jones,@example.com
+1945,Eva Davis,35.0,Pending,2022-01-12,56708.34,eva.davis@example.com,7942817933,Excellent,False,DevOps,Nevada,True,eva.davis,@example.com
+1946,Charlie Jones,25.0,Inactive,2022-02-02,104516.55,charlie.jones@example.com,652775843,Excellent,False,Admin,Illinois,True,charlie.jones,@example.com
+1947,Charlie Garcia,25.0,Pending,2021-03-28,108210.15,charlie.garcia@example.com,6634533721,Poor,True,Admin,New York,True,charlie.garcia,@example.com
+1948,Bob Miller,40.0,Active,2024-08-03,85155.06,bob.miller@example.com,109121721,Excellent,True,Finance,Texas,True,bob.miller,@example.com
+1949,Frank Jones,35.0,Active,2024-07-31,80935.65,frank.jones@example.com,1455937660,Excellent,False,DevOps,California,True,frank.jones,@example.com
+1950,Frank Williams,30.0,Active,2024-03-04,107020.19,frank.williams@example.com,8943705262,Excellent,False,DevOps,California,True,frank.williams,@example.com
+1951,Charlie Brown,30.0,Active,2020-09-23,118677.67,charlie.brown@example.com,5100462775,Excellent,False,HR,New York,True,charlie.brown,@example.com
+1952,Bob Jones,25.0,Inactive,2020-03-28,63744.57,bob.jones@example.com,5725659201,Average,False,Cloud Tech,Florida,True,bob.jones,@example.com
+1953,Alice Brown,40.0,Active,2020-05-15,85155.06,alice.brown@example.com,4617520237,Poor,False,Cloud Tech,California,True,alice.brown,@example.com
+1954,Bob Williams,25.0,Pending,2021-02-13,62934.73,bob.williams@example.com,9743260054,Good,False,Sales,New York,True,bob.williams,@example.com
+1955,Bob Williams,30.0,Pending,2021-12-13,74654.23,bob.williams@example.com,9550178331,Excellent,True,DevOps,California,True,bob.williams,@example.com
+1956,David Brown,NA,Active,2024-08-05,85155.06,david.brown@example.com,5848689992,Average,True,Sales,Texas,True,david.brown,@example.com
+1957,David Smith,30.0,Pending,2020-01-09,118150.59,david.smith@example.com,6079848703,Average,True,HR,New York,True,david.smith,@example.com
+1958,David Johnson,NA,Inactive,2023-11-30,91256.64,david.johnson@example.com,5069176798,Average,False,DevOps,Florida,True,david.johnson,@example.com
+1959,Bob Davis,30.0,Inactive,2021-03-14,85997.57,bob.davis@example.com,3593744038,Good,False,HR,Florida,True,bob.davis,@example.com
+1960,Frank Smith,25.0,Pending,2020-10-05,84707.12,frank.smith@example.com,4640830372,Excellent,False,Finance,Texas,True,frank.smith,@example.com
+1961,Eva Smith,NA,Active,2021-11-02,84559.9,eva.smith@example.com,6060148859,Poor,False,DevOps,Texas,True,eva.smith,@example.com
+1962,Heidi Miller,NA,Pending,2024-09-18,81076.91,heidi.miller@example.com,8490793883,Poor,False,DevOps,California,True,heidi.miller,@example.com
+1963,Eva Davis,40.0,Inactive,2023-10-22,85155.06,eva.davis@example.com,1368528305,Average,False,Admin,Texas,True,eva.davis,@example.com
+1964,Heidi Davis,25.0,Pending,2023-09-10,97356.31,heidi.davis@example.com,1537012423,Good,True,Finance,Florida,True,heidi.davis,@example.com
+1965,Grace Smith,40.0,Active,2024-02-27,114770.32,grace.smith@example.com,4626325143,Good,True,DevOps,Illinois,True,grace.smith,@example.com
+1966,Bob Jones,35.0,Active,2023-05-03,109082.07,bob.jones@example.com,8811210313,Good,False,Admin,California,True,bob.jones,@example.com
+1967,David Miller,40.0,Inactive,2024-04-15,99944.57,david.miller@example.com,2175188780,Poor,True,DevOps,Florida,True,david.miller,@example.com
+1968,Eva Miller,40.0,Pending,2023-05-20,116509.72,eva.miller@example.com,7941515262,Average,False,HR,Florida,True,eva.miller,@example.com
+1969,Eva Williams,30.0,Active,2021-05-28,84253.9,eva.williams@example.com,8409112251,Excellent,True,Finance,Texas,True,eva.williams,@example.com
+1970,Charlie Garcia,25.0,Active,2024-08-27,54776.01,charlie.garcia@example.com,8837505660,Poor,False,Cloud Tech,Nevada,True,charlie.garcia,@example.com
+1971,Charlie Davis,40.0,Inactive,2020-11-08,71192.68,charlie.davis@example.com,8632397912,Average,False,Sales,Nevada,True,charlie.davis,@example.com
+1972,Bob Smith,NA,Active,2021-08-24,96346.53,bob.smith@example.com,7876553006,Average,True,Finance,Florida,True,bob.smith,@example.com
+1973,Eva Williams,NA,Pending,2020-02-06,116680.63,eva.williams@example.com,3095055604,Excellent,True,HR,Illinois,True,eva.williams,@example.com
+1974,Grace Brown,25.0,Inactive,2024-10-12,76343.56,grace.brown@example.com,7121988191,Excellent,False,Finance,Florida,True,grace.brown,@example.com
+1975,Alice Johnson,30.0,Inactive,2024-12-16,99424.14,alice.johnson@example.com,7788519052,Excellent,False,Sales,Nevada,True,alice.johnson,@example.com
+1976,Charlie Garcia,35.0,Inactive,2024-04-13,57656.74,charlie.garcia@example.com,4864010423,Good,True,DevOps,Florida,True,charlie.garcia,@example.com
+1977,Heidi Garcia,40.0,Pending,2020-04-24,77396.94,heidi.garcia@example.com,6245618516,Excellent,True,Sales,New York,True,heidi.garcia,@example.com
+1978,Grace Garcia,NA,Inactive,2021-10-18,54299.68,grace.garcia@example.com,4460045211,Average,False,DevOps,California,True,grace.garcia,@example.com
+1979,Charlie Miller,35.0,Pending,2020-02-25,103563.58,charlie.miller@example.com,8991511454,Excellent,True,HR,Nevada,True,charlie.miller,@example.com
+1980,Grace Brown,25.0,Inactive,2022-04-23,74588.85,grace.brown@example.com,1293913043,Average,False,Finance,California,True,grace.brown,@example.com
+1981,David Garcia,30.0,Pending,2020-06-22,113727.23,david.garcia@example.com,8818984840,Poor,False,DevOps,California,True,david.garcia,@example.com
+1982,Eva Brown,25.0,Active,2023-01-07,72828.18,eva.brown@example.com,6046154020,Good,False,HR,New York,True,eva.brown,@example.com
+1983,Grace Jones,NA,Inactive,2020-02-11,98717.09,grace.jones@example.com,1901707567,Poor,False,Sales,Florida,True,grace.jones,@example.com
+1984,Frank Garcia,40.0,Inactive,2023-03-18,56840.8,frank.garcia@example.com,1429831521,Poor,True,Sales,Florida,True,frank.garcia,@example.com
+1985,David Johnson,35.0,Pending,2021-11-26,61663.91,david.johnson@example.com,9107322835,Average,True,Finance,Illinois,True,david.johnson,@example.com
+1986,Grace Brown,30.0,Active,2024-09-17,109523.4,grace.brown@example.com,849378305,Poor,True,Finance,Nevada,True,grace.brown,@example.com
+1987,Eva Brown,25.0,Inactive,2024-07-05,65812.02,eva.brown@example.com,3963845268,Average,True,HR,Illinois,True,eva.brown,@example.com
+1988,Bob Johnson,NA,Inactive,2021-07-13,54708.88,bob.johnson@example.com,6944391648,Excellent,True,Cloud Tech,Illinois,True,bob.johnson,@example.com
+1989,Heidi Garcia,40.0,Active,2023-08-27,107661.73,heidi.garcia@example.com,7016934291,Excellent,True,Admin,California,True,heidi.garcia,@example.com
+1990,Eva Johnson,40.0,Inactive,2021-02-13,79002.0,eva.johnson@example.com,9132033015,Average,True,DevOps,Illinois,True,eva.johnson,@example.com
+1991,Heidi Brown,NA,Pending,2023-12-11,86135.69,heidi.brown@example.com,2341903105,Excellent,False,Admin,Texas,True,heidi.brown,@example.com
+1992,Heidi Johnson,30.0,Inactive,2021-07-02,115601.4,heidi.johnson@example.com,1537221555,Good,True,DevOps,Nevada,True,heidi.johnson,@example.com
+1993,Grace Brown,NA,Active,2022-12-05,64045.36,grace.brown@example.com,6847323652,Poor,True,DevOps,Nevada,True,grace.brown,@example.com
+1994,David Brown,30.0,Inactive,2024-09-24,80477.21,david.brown@example.com,3774604066,Good,False,DevOps,Nevada,True,david.brown,@example.com
+1995,Bob Jones,30.0,Inactive,2023-08-16,61240.9,bob.jones@example.com,2007843613,Poor,True,Finance,California,True,bob.jones,@example.com
+1996,David Smith,40.0,Active,2021-01-28,51939.29,david.smith@example.com,2442607818,Excellent,True,Admin,Texas,True,david.smith,@example.com
+1997,Eva Brown,40.0,Inactive,2022-05-14,95284.54,eva.brown@example.com,7543734763,Good,False,Finance,Illinois,True,eva.brown,@example.com
+1998,Charlie Garcia,35.0,Inactive,2024-06-05,106247.67,charlie.garcia@example.com,2737203762,Excellent,True,Admin,Texas,True,charlie.garcia,@example.com
+1999,Charlie Williams,25.0,Active,2020-04-23,110170.88,charlie.williams@example.com,8821458413,Poor,True,DevOps,Florida,True,charlie.williams,@example.com
+2000,Charlie Miller,25.0,Pending,2024-06-10,52615.44,charlie.miller@example.com,8460191343,Average,True,HR,Nevada,True,charlie.miller,@example.com
+2001,Eva Davis,30.0,Inactive,2020-04-18,82547.26,eva.davis@example.com,3899827801,Average,False,DevOps,Illinois,True,eva.davis,@example.com
+2002,Bob Smith,35.0,Pending,2020-06-29,63049.22,bob.smith@example.com,586950731,Good,True,Finance,Illinois,True,bob.smith,@example.com
+2003,Frank Smith,35.0,Pending,2023-02-15,115229.12,frank.smith@example.com,1464493698,Excellent,True,HR,California,True,frank.smith,@example.com
+2004,Grace Smith,25.0,Pending,2023-06-15,60687.63,grace.smith@example.com,9516793349,Excellent,False,DevOps,Illinois,True,grace.smith,@example.com
+2005,Frank Jones,30.0,Inactive,2022-03-19,67492.73,frank.jones@example.com,5573857367,Good,True,Finance,Illinois,True,frank.jones,@example.com
+2006,Grace Brown,NA,Inactive,2023-10-25,77821.79,grace.brown@example.com,119236036,Average,False,HR,Illinois,True,grace.brown,@example.com
+2007,Charlie Jones,35.0,Active,2022-07-14,69146.95,charlie.jones@example.com,6811872332,Poor,False,DevOps,Texas,True,charlie.jones,@example.com
+2008,Grace Brown,35.0,Inactive,2022-03-12,90224.82,grace.brown@example.com,5104096148,Good,True,Admin,Nevada,True,grace.brown,@example.com
+2009,David Garcia,NA,Pending,2024-06-11,62603.98,david.garcia@example.com,7315391148,Poor,False,Finance,Illinois,True,david.garcia,@example.com
+2010,Bob Jones,35.0,Active,2024-06-10,71148.27,bob.jones@example.com,8307482072,Average,False,Sales,Nevada,True,bob.jones,@example.com
+2011,David Jones,40.0,Inactive,2022-09-21,52031.74,david.jones@example.com,6511893939,Excellent,True,Admin,California,True,david.jones,@example.com
+2012,Grace Miller,35.0,Inactive,2023-04-15,85155.06,grace.miller@example.com,6557820189,Average,False,DevOps,Florida,True,grace.miller,@example.com
+2013,Eva Williams,NA,Pending,2020-02-06,116680.63,eva.williams@example.com,4322302332,Good,False,HR,Illinois,True,eva.williams,@example.com
+2014,Grace Jones,30.0,Pending,2021-05-16,51990.98,grace.jones@example.com,2470739200,Excellent,True,Finance,Nevada,True,grace.jones,@example.com
+2015,David Miller,30.0,Active,2023-08-19,85155.06,david.miller@example.com,3546212759,Good,True,HR,California,True,david.miller,@example.com
+2016,David Johnson,30.0,Inactive,2021-11-07,100215.06,david.johnson@example.com,2508261122,Good,True,Cloud Tech,Texas,True,david.johnson,@example.com
+2017,Charlie Williams,40.0,Active,2023-10-04,114587.11,charlie.williams@example.com,1261632487,Average,False,Finance,New York,True,charlie.williams,@example.com
+2018,Alice Garcia,30.0,Inactive,2024-12-16,71318.79,alice.garcia@example.com,8995729892,Good,True,HR,Florida,True,alice.garcia,@example.com
+2019,Heidi Jones,30.0,Pending,2021-02-22,77764.24,heidi.jones@example.com,7629745492,Average,False,DevOps,Illinois,True,heidi.jones,@example.com
