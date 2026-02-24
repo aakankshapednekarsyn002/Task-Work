@@ -1,0 +1,21 @@
+employee_id,employee_name,joining_year,joining_department,salary,skills
+E001,Ranjith,2020,IT,55000,Python|SQL
+E002,Muthu,2019,HR,,Recruitment
+E003,Manoj,2021,Finance,48000,Excel|Accounting|Tax
+E004,Jeyanth,2018,Sales,62000,
+E005,Karthik,,IT,70000,Java
+E006,Divya,2022,,45000,Testing|Automation
+E007,Anitha,2020,Marketing,,SEO
+E008,Suresh,2017,Operations,52000,Logistics|Supply Chain
+E009,Priya,2023,IT,60000,Python
+E010,Arun,2016,Finance,,Audit
+E011,Sneha,2021,HR,47000,Payroll|Compliance
+E012,Vijay,2019,IT,65000,DevOps|AWS
+E013,Lakshmi,2022,Sales,50000,
+E014,Kiran,2020,Operations,54000,Inventory
+E015,Meena,2018,Marketing,58000,Content|Social Media
+E016,Naveen,,IT,,Support
+E017,Pooja,2023,HR,43000,
+E018,Rahul,2017,Finance,72000,Budgeting|Forecasting
+E019,Swathi,2021,Sales,51000,CRM
+E020,Ajay,2019,,56000,Administration

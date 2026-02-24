@@ -1,0 +1,204 @@
+[
+  {
+    "employee_id": "E001",
+    "name": "Ranjith",
+    "joining": {
+      "year": 2020,
+      "department": "IT"
+    },
+    "salary": 55000,
+    "skills": ["Python", "SQL"]
+  },
+  {
+    "employee_id": "E002",
+    "name": "Muthu",
+    "joining": {
+      "year": 2019,
+      "department": "HR"
+    },
+    "salary": null ,
+    "skills": ["Recruitment"]
+  },
+  {
+    "employee_id": "E003",
+    "name": "Manoj",
+    "joining": {
+      "year": 2021,
+      "department": "Finance"
+    },
+    "salary": 48000,
+    "skills": ["Excel", "Accounting", "Tax"]
+  },
+  {
+    "employee_id": "E004",
+    "name": "Jeyanth",
+    "joining": {
+      "year": 2018,
+      "department": "Sales"
+    },
+    "salary": 62000,
+    "skills": []
+  },
+  {
+    "employee_id": "E005",
+    "name": "Karthik",
+    "joining": {
+      "year": null,
+      "department": "IT"
+    },
+    "salary": 70000,
+    "skills": ["Java"]
+  },
+  {
+    "employee_id": "E006",
+    "name": "Divya",
+    "joining": {
+      "year": 2022,
+      "department": null
+    },
+    "salary": 45000,
+    "skills": ["Testing", "Automation"]
+  },
+  {
+    "employee_id": "E007",
+    "name": "Anitha",
+    "joining": {
+      "year": 2020,
+      "department": "Marketing"
+    },
+    "salary": null,
+    "skills": ["SEO"]
+  },
+  {
+    "employee_id": "E008",
+    "name": "Suresh",
+    "joining": {
+      "year": 2017,
+      "department": "Operations"
+    },
+    "salary": 52000,
+    "skills": ["Logistics", "Supply Chain"]
+  },
+  {
+    "employee_id": "E009",
+    "name": "Priya",
+    "joining": {
+      "year": 2023,
+      "department": "IT"
+    },
+    "salary": 60000,
+    "skills": ["Python"]
+  },
+  {
+    "employee_id": "E010",
+    "name": "Arun",
+    "joining": {
+      "year": 2016,
+      "department": "Finance"
+    },
+    "salary": null,
+    "skills": ["Audit"]
+  },
+  {
+    "employee_id": "E011",
+    "name": "Sneha",
+    "joining": {
+      "year": 2021,
+      "department": "HR"
+    },
+    "salary": 47000,
+    "skills": ["Payroll", "Compliance"]
+  },
+  {
+    "employee_id": "E012",
+    "name": "Vijay",
+    "joining": {
+      "year": 2019,
+      "department": "IT"
+    },
+    "salary": 65000,
+    "skills": ["DevOps", "AWS"]
+  },
+  {
+    "employee_id": "E013",
+    "name": "Lakshmi",
+    "joining": {
+      "year": 2022,
+      "department": "Sales"
+    },
+    "salary": 50000,
+    "skills": null
+  },
+  {
+    "employee_id": "E014",
+    "name": "Kiran",
+    "joining": {
+      "year": 2020,
+      "department": "Operations"
+    },
+    "salary": 54000,
+    "skills": ["Inventory"]
+  },
+  {
+    "employee_id": "E015",
+    "name": "Meena",
+    "joining": {
+      "year": 2018,
+      "department": "Marketing"
+    },
+    "salary": 58000,
+    "skills": ["Content", "Social Media"]
+  },
+  {
+    "employee_id": "E016",
+    "name": "Naveen",
+    "joining": {
+      "year": null,
+      "department": "IT"
+    },
+    "salary": null,
+    "skills": ["Support"]
+  },
+  {
+    "employee_id": "E017",
+    "name": "Pooja",
+    "joining": {
+      "year": 2023,
+      "department": "HR"
+    },
+    "salary": 43000,
+    "skills": []
+  },
+  {
+    "employee_id": "E018",
+    "name": "Rahul",
+    "joining": {
+      "year": 2017,
+      "department": "Finance"
+    },
+    "salary": 72000,
+    "skills": ["Budgeting", "Forecasting"]
+  },
+  {
+    "employee_id": "E019",
+    "name": "Swathi",
+    "joining": {
+      "year": 2021,
+      "department": "Sales"
+    },
+    "salary": 51000,
+    "skills": ["CRM"]
+  },
+  {
+    "employee_id": "E020",
+    "name": "Ajay",
+    "joining": {
+      "year": 2019,
+      "department": null
+    },
+    "salary": 56000,
+    "skills": ["Administration"]
+  }
+]
+
+
