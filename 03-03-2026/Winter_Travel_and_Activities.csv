@@ -1,0 +1,156 @@
+ID,Destination,Activity,Travel_Mode,Accommodation,Season,Avg_Cost(USD),Rating,Popularity_Score
+1,Germany,Skiing,Flight,Hostel,Winter 2023,,,1.3
+2,France,Winter Festival,Flight,Cabin,Winter 2024,,3.5,5.3
+3,Switzerland,Snowshoeing,Flight,Hotel,Winter 2024,2606.23,4.1,9.1
+4,Switzerland,Skiing,Car,Hotel,Winter 2025,880.72,3.8,4.5
+5,Finland,Hot Springs,Car,Cabin,Winter 2024,,,1.3
+6,Canada,Northern Lights Tour,Train,Apartment,Winter 2024,,4.8,1.6
+7,Japan,Snowboarding,Flight,Hostel,Winter 2024,1524.5,4.9,9.9
+8,Austria,Skiing,Flight,Resort,Winter 2025,,,2.1
+9,Austria,Northern Lights Tour,Car,Cabin,Winter 2023,,,6.4
+10,Switzerland,Snowboarding,Car,Hostel,Winter 2024,,4.5,1.9
+11,Canada,Hot Springs,Train,Resort,Winter 2025,,3.1,5.5
+12,Canada,Ice Skating,Car,Resort,Winter 2023,1470.76,,9.4
+13,Germany,Winter Festival,Car,Apartment,Winter 2024,433.49,,5.8
+14,Norway,Hiking,Car,Hostel,Winter 2023,,,6.7
+15,Iceland,Snowshoeing,Bus,Hotel,Winter 2023,845.25,3.2,5.6
+16,Iceland,Christmas Market,Flight,Cabin,Winter 2023,,,5.8
+17,Finland,Northern Lights Tour,Bus,Hotel,Winter 2023,,3.6,6.5
+18,Switzerland,Christmas Market,Car,Hotel,Winter 2024,2219.68,4.1,5.6
+19,Austria,Hiking,Car,Cabin,Winter 2023,,4.0,6.1
+20,Japan,Skiing,Train,Hotel,Winter 2025,,3.5,6.4
+21,Germany,Snowboarding,Car,Hostel,Winter 2025,,4.6,4.2
+22,Norway,Northern Lights Tour,Train,Apartment,Winter 2024,2222.7,,6.6
+23,Switzerland,Northern Lights Tour,Flight,Apartment,Winter 2024,,,9.1
+24,Iceland,Winter Festival,Car,Hotel,Winter 2025,2009.27,4.2,1.9
+25,Austria,Snowshoeing,Train,Hotel,Winter 2024,551.79,,2.5
+26,Austria,Winter Festival,Car,Cabin,Winter 2024,1148.8,,9.5
+27,Norway,Hiking,Flight,Resort,Winter 2025,2985.36,3.2,5.3
+28,Canada,Winter Festival,Car,Cabin,Winter 2025,,,9.3
+29,France,Ice Skating,Train,Cabin,Winter 2025,,3.2,5.0
+30,USA,Ice Skating,Bus,Hostel,Winter 2024,,,8.5
+31,France,Christmas Market,Flight,Apartment,Winter 2024,622.63,4.6,1.3
+32,Iceland,Skiing,Car,Hostel,Winter 2023,1196.58,,6.6
+33,Canada,Snowshoeing,Train,Cabin,Winter 2023,2109.59,,1.8
+34,Germany,Skiing,Bus,Resort,Winter 2025,,3.4,3.5
+35,Germany,Hiking,Flight,Cabin,Winter 2023,2007.99,,2.1
+36,Switzerland,Hiking,Flight,Apartment,Winter 2023,,3.5,6.7
+37,Iceland,Hiking,Train,Hotel,Winter 2025,,4.6,4.9
+38,Finland,Sledding,Car,Resort,Winter 2024,,3.8,2.9
+39,Switzerland,Northern Lights Tour,Flight,Cabin,Winter 2024,,,4.6
+40,France,Winter Festival,Train,Hostel,Winter 2023,792.12,,1.1
+41,Canada,Sledding,Train,Hostel,Winter 2023,,4.2,2.1
+42,Switzerland,Hot Springs,Train,Hostel,Winter 2024,2039.01,,1.9
+43,Switzerland,Snowshoeing,Train,Resort,Winter 2025,,,5.1
+44,Norway,Hot Springs,Train,Apartment,Winter 2023,,,8.5
+45,Austria,Skiing,Flight,Apartment,Winter 2024,2517.03,,9.4
+46,Finland,Winter Festival,Flight,Hotel,Winter 2025,,,4.7
+47,Iceland,Snowshoeing,Bus,Hotel,Winter 2023,,,6.2
+48,France,Skiing,Bus,Hotel,Winter 2023,1553.7,,7.0
+49,Norway,Winter Festival,Train,Resort,Winter 2024,,,8.7
+50,Switzerland,Sledding,Car,Hostel,Winter 2024,2396.11,,5.7
+51,Japan,Ice Skating,Flight,Resort,Winter 2023,,3.7,3.1
+52,France,Snowboarding,Train,Hostel,Winter 2025,,3.9,3.1
+53,France,Hot Springs,Bus,Resort,Winter 2024,2035.68,3.1,8.5
+54,Switzerland,Snowshoeing,Train,Hotel,Winter 2025,2800.51,3.5,2.0
+55,USA,Northern Lights Tour,Flight,Apartment,Winter 2024,,4.0,4.3
+56,Switzerland,Skiing,Train,Apartment,Winter 2025,1559.04,,3.0
+57,Canada,Christmas Market,Train,Hotel,Winter 2025,2086.01,,1.4
+58,France,Northern Lights Tour,Flight,Resort,Winter 2023,2156.43,4.6,6.2
+59,Austria,Christmas Market,Train,Apartment,Winter 2023,,4.4,7.3
+60,France,Hiking,Bus,Hotel,Winter 2023,2682.46,3.1,7.0
+61,USA,Winter Festival,Train,Cabin,Winter 2024,2912.11,,8.8
+62,Switzerland,Winter Festival,Flight,Hostel,Winter 2023,1617.87,3.9,6.8
+63,Norway,Winter Festival,Flight,Resort,Winter 2025,1083.15,4.7,10.0
+64,Canada,Hiking,Car,Resort,Winter 2024,1586.55,,9.0
+65,Canada,Skiing,Train,Apartment,Winter 2024,1333.79,,4.4
+66,Canada,Sledding,Bus,Apartment,Winter 2024,,4.8,1.2
+67,Norway,Snowshoeing,Bus,Hostel,Winter 2023,617.99,3.1,5.5
+68,Iceland,Winter Festival,Car,Hotel,Winter 2025,,,2.4
+69,USA,Northern Lights Tour,Flight,Hotel,Winter 2024,,,3.0
+70,Norway,Northern Lights Tour,Bus,Apartment,Winter 2023,737.42,3.9,2.9
+71,Germany,Ice Skating,Bus,Hostel,Winter 2023,868.51,3.3,1.7
+72,Finland,Winter Festival,Flight,Cabin,Winter 2025,,4.4,8.2
+73,Germany,Snowboarding,Flight,Cabin,Winter 2023,1973.15,,8.3
+74,Switzerland,Snowshoeing,Bus,Apartment,Winter 2024,715.45,3.3,2.0
+75,Norway,Skiing,Train,Hotel,Winter 2025,,4.0,2.2
+76,Finland,Winter Festival,Bus,Resort,Winter 2023,,4.5,4.2
+77,Germany,Sledding,Bus,Hostel,Winter 2023,,,1.6
+78,Iceland,Winter Festival,Bus,Resort,Winter 2025,,3.1,8.6
+79,Canada,Christmas Market,Car,Resort,Winter 2024,,,4.0
+80,Germany,Snowshoeing,Bus,Hostel,Winter 2024,,,9.3
+81,Japan,Hiking,Car,Hostel,Winter 2025,,3.3,9.0
+82,France,Christmas Market,Flight,Hotel,Winter 2024,,4.9,1.9
+83,Switzerland,Hiking,Train,Apartment,Winter 2025,1628.46,4.3,9.5
+84,Japan,Snowshoeing,Flight,Apartment,Winter 2023,,,9.5
+85,Norway,Hiking,Flight,Apartment,Winter 2024,,4.1,1.7
+86,USA,Snowboarding,Train,Cabin,Winter 2024,1729.87,,6.1
+87,Norway,Northern Lights Tour,Train,Cabin,Winter 2023,849.07,3.9,6.5
+88,Japan,Ice Skating,Train,Cabin,Winter 2025,821.36,4.0,5.9
+89,USA,Christmas Market,Flight,Cabin,Winter 2025,,,4.3
+90,Switzerland,Winter Festival,Car,Cabin,Winter 2023,,,7.7
+91,Germany,Hiking,Train,Cabin,Winter 2023,2707.57,,4.0
+92,Switzerland,Ice Skating,Train,Hostel,Winter 2023,331.9,3.1,5.9
+93,Japan,Sledding,Bus,Hotel,Winter 2023,2394.83,4.0,9.5
+94,France,Northern Lights Tour,Car,Apartment,Winter 2023,842.65,,3.8
+95,Canada,Hiking,Car,Apartment,Winter 2024,2766.47,,1.8
+96,Iceland,Snowshoeing,Flight,Apartment,Winter 2024,1221.63,4.7,2.6
+97,Austria,Christmas Market,Bus,Hostel,Winter 2024,,3.3,3.4
+98,Iceland,Snowboarding,Flight,Cabin,Winter 2024,1321.98,5.0,9.8
+99,Germany,Skiing,Train,Hostel,Winter 2024,,3.3,6.3
+100,Norway,Ice Skating,Bus,Apartment,Winter 2025,1886.86,,3.0
+101,USA,Hot Springs,Car,Hostel,Winter 2025,491.11,4.9,9.6
+102,Iceland,Snowboarding,Flight,Hotel,Winter 2024,,4.9,9.8
+103,Japan,Hiking,Car,Hotel,Winter 2024,2091.27,4.1,7.9
+104,Iceland,Northern Lights Tour,Train,Cabin,Winter 2023,2447.91,4.4,8.1
+105,Norway,Northern Lights Tour,Car,Hotel,Winter 2023,1750.47,,1.0
+106,Japan,Ice Skating,Train,Hostel,Winter 2023,374.88,4.4,7.9
+107,Japan,Snowboarding,Train,Hotel,Winter 2024,2049.8,4.2,4.9
+108,Japan,Winter Festival,Car,Cabin,Winter 2023,2227.82,4.3,5.1
+109,France,Northern Lights Tour,Flight,Hotel,Winter 2023,,,8.5
+110,Canada,Christmas Market,Flight,Hostel,Winter 2023,1824.45,4.4,7.0
+111,USA,Snowshoeing,Car,Hotel,Winter 2024,,4.3,6.1
+112,France,Northern Lights Tour,Train,Hotel,Winter 2023,2343.05,,6.0
+113,Switzerland,Christmas Market,Flight,Apartment,Winter 2024,,,7.7
+114,Canada,Winter Festival,Train,Hostel,Winter 2023,1526.78,3.1,8.3
+115,Switzerland,Christmas Market,Flight,Resort,Winter 2023,1537.81,,7.6
+116,Iceland,Christmas Market,Train,Apartment,Winter 2023,,,2.0
+117,USA,Snowboarding,Bus,Resort,Winter 2023,552.45,,6.1
+118,Japan,Hot Springs,Train,Resort,Winter 2025,,4.5,1.9
+119,Canada,Hiking,Train,Resort,Winter 2024,844.15,4.8,9.4
+120,Norway,Snowshoeing,Car,Hostel,Winter 2025,,4.0,2.2
+121,USA,Winter Festival,Flight,Apartment,Winter 2023,1677.24,,4.9
+122,Japan,Sledding,Car,Resort,Winter 2024,,,8.2
+123,Finland,Hiking,Train,Cabin,Winter 2023,2738.62,,1.4
+124,Iceland,Ice Skating,Train,Apartment,Winter 2023,,,8.5
+125,Switzerland,Snowshoeing,Bus,Apartment,Winter 2025,,3.5,2.1
+126,Japan,Northern Lights Tour,Bus,Apartment,Winter 2025,,3.9,9.9
+127,Switzerland,Hot Springs,Train,Hostel,Winter 2025,943.16,3.1,1.4
+128,USA,Ice Skating,Car,Hotel,Winter 2024,,4.0,6.2
+129,Switzerland,Hot Springs,Car,Hotel,Winter 2023,,4.3,2.9
+130,Canada,Snowshoeing,Car,Apartment,Winter 2025,,4.2,6.8
+131,USA,Winter Festival,Flight,Hotel,Winter 2024,,,9.8
+132,USA,Hot Springs,Train,Cabin,Winter 2023,,4.9,2.0
+133,France,Christmas Market,Car,Cabin,Winter 2024,,4.5,7.8
+134,Japan,Hiking,Train,Hostel,Winter 2023,2997.33,3.0,9.4
+135,Norway,Hiking,Bus,Resort,Winter 2025,,4.5,8.4
+136,Japan,Hiking,Flight,Hostel,Winter 2025,2604.97,,6.9
+137,Germany,Northern Lights Tour,Flight,Cabin,Winter 2023,,,8.6
+138,Iceland,Sledding,Bus,Hotel,Winter 2025,,3.8,1.6
+139,Canada,Sledding,Flight,Resort,Winter 2023,,3.6,9.2
+140,Iceland,Hot Springs,Train,Cabin,Winter 2025,2099.5,,1.3
+141,Iceland,Ice Skating,Flight,Cabin,Winter 2024,1492.23,,1.0
+142,Iceland,Ice Skating,Car,Hostel,Winter 2023,904.49,,8.1
+143,Austria,Hot Springs,Flight,Apartment,Winter 2024,,,2.5
+144,Switzerland,Northern Lights Tour,Bus,Hotel,Winter 2023,1215.15,,2.1
+145,Japan,Christmas Market,Car,Resort,Winter 2024,1233.0,,9.3
+146,Norway,Snowboarding,Bus,Apartment,Winter 2023,,,8.8
+147,Germany,Winter Festival,Bus,Resort,Winter 2025,,3.1,5.1
+148,France,Winter Festival,Car,Hostel,Winter 2023,,3.5,7.9
+149,Iceland,Hiking,Car,Hotel,Winter 2024,2322.06,,9.2
+150,Finland,Winter Festival,Bus,Cabin,Winter 2025,1095.69,,2.3
+98,Iceland,Snowboarding,Flight,Cabin,Winter 2024,1321.98,5.0,9.8
+29,France,Ice Skating,Train,Cabin,Winter 2025,,3.2,5.0
+40,France,Winter Festival,Train,Hostel,Winter 2023,792.12,,1.1
+111,USA,Snowshoeing,Car,Hotel,Winter 2024,,4.3,6.1
+132,USA,Hot Springs,Train,Cabin,Winter 2023,,4.9,2.0
